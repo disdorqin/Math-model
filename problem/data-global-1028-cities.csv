@@ -1,0 +1,1029 @@
+OBJECTID,UID,UrbanArea,Continent,ISO,Level_0,Level_1,Level_2,latitude,longitude
+1,0,154.68799999999999,Australia_Oceania,NZL,New Zealand,Canterbury,"Christchurch, Selwyn",-43.5292734062,172.618415358
+2,1,437.16500000000002,Australia_Oceania,NZL,New Zealand,Auckland,"Franklin, Manukau, Rodney, Waitakere",-36.9273433485,174.798823444
+3,6,315.12900000000002,Africa,CIV,Cote d'Ivoire,Abidjan,Abidjan,5.36791132281,-4.00767232588
+4,10,136.11699999999999,Asia,CHN,China,Anhui,Bozhou,33.8366803466,115.77032536
+5,11,294.55500000000001,Asia,CHN,China,Anhui,Fuyang,32.8922819509,115.8236209
+6,15,178.94200000000001,Asia,CHN,China,Anhui,Lu'an,31.7617623472,116.518385204
+7,16,368.91300000000001,Asia,CHN,China,"Anhui, Henan","Huaibei, Suzhou, Shangqiu",33.9678185253,116.80347384
+8,17,142.761,Asia,CHN,China,Anhui,Anqing,30.5534896273,117.064884808
+9,18,157.69499999999999,Asia,CHN,China,Anhui,"Huaibei, Suzhou",33.6440915902,116.985293069
+10,22,253.06399999999999,Asia,CHN,China,Anhui,"Bengbu, Hefei, Huainan, Lu'an",32.6417432682,116.968832964
+11,23,919.72,Asia,CHN,China,Anhui,Hefei,31.8422737391,117.268184683
+12,24,447.38299999999998,Asia,CHN,China,Anhui,"Bengbu, Chuzhou",32.941315178,117.35575816
+13,34,110.926,Asia,CHN,China,Anhui,"Chaohu, Wuhu",31.3967499314,118.284699906
+14,36,161.89699999999999,Asia,CHN,China,Anhui,Chuzhou,32.3304761077,118.355376916
+15,37,504.39800000000002,Asia,CHN,China,"Anhui, Jiangsu","Ma'anshan, Wuhu, Nanjing",31.5088531414,118.458905797
+16,41,4366,Asia,CHN,China,"Beijing, Hebei, Tianjin","Beijing, Baoding, Langfang, Tianjin",39.9356880169,116.395382097
+17,42,125.651,Asia,CHN,China,"Beijing, Hebei","Beijing, Langfang",40.1169346159,116.810708288
+18,45,219.738,Asia,CHN,China,Chongqing,Chongqing,29.5308909482,106.328800056
+19,46,610.10299999999995,Asia,CHN,China,Chongqing,Chongqing,29.5819003985,106.532899772
+20,48,123.73399999999999,Asia,CHN,China,Fujian,Longyan,25.0833531266,117.00578861
+21,51,120.617,Asia,CHN,China,Fujian,"Putian, Quanzhou",25.3352845179,118.776172825
+22,52,2821.53,Asia,CHN,China,Fujian,"Quanzhou, Xiamen, Zhangzhou",24.7621175653,118.375058921
+23,53,291.29500000000002,Asia,CHN,China,Fujian,Fuzhou,26.0650007738,119.304269881
+24,55,412.69099999999997,Asia,CHN,China,Fujian,"Fuzhou, Putian",25.3721737777,119.080712919
+25,56,142.11600000000001,Asia,CHN,China,Fujian,Fuzhou,25.7042325269,119.379536505
+26,57,302.64600000000002,Asia,CHN,China,Fujian,Fuzhou,25.9239213135,119.546115758
+27,60,295.904,Asia,CHN,China,Gansu,Lanzhou,36.0845111674,103.762682237
+28,62,519.38900000000001,Asia,CHN,China,Guangxi,Nanning,22.8044728817,108.346702837
+29,66,233.238,Asia,CHN,China,Guangxi,Liuzhou,24.3205770426,109.397051097
+30,70,132.96600000000001,Asia,CHN,China,Guangxi,Yulin,22.6204625427,110.159328824
+31,71,134.768,Asia,CHN,China,Guangxi,Guilin,25.2921616158,110.302879986
+32,75,490.49099999999999,Asia,CHN,China,Guizhou,Guiyang,26.5747147731,106.648891706
+33,76,183.20699999999999,Asia,CHN,China,Guizhou,Zunyi,27.6657541245,106.923766145
+34,78,103.827,Asia,CHN,China,Guangdong,Zhanjiang,21.2347235574,110.3638335
+35,82,121.473,Asia,CHN,China,Guangdong,Zhaoqing,23.1025789576,112.501311268
+36,83,101.489,Asia,CHN,China,Guangdong,"Foshan, Zhaoqing",23.3223779604,112.760807301
+37,85,161.73500000000001,Asia,CHN,China,Guangdong,Qingyuan,23.664151103,113.048219637
+38,87,10603.9,Asia,CHN,China,"Guangdong, North, Yuen Long, Macau","Dongguan, Foshan, Guangzhou, Huizhou, Jiangmen, Qingyuan, Shenzhen, Zhaoqing, Zhongshan, Zhuhai, Nossa Senhora de Fátima, São Lázaro, São Lourenço, Sé, Santo António",22.934838561,113.564338158
+39,89,151.93199999999999,Asia,CHN,China,Guangdong,Shaoguan,24.7672926216,113.575633182
+40,90,170.86799999999999,Asia,CHN,China,Guangdong,"Heyuan, Huizhou",23.7181640451,114.695566204
+41,93,663.99400000000003,Asia,CHN,China,Guangdong,"Jieyang, Shantou",23.2748387198,116.387410095
+42,94,1219.58,Asia,CHN,China,Guangdong,"Chaozhou, Jieyang, Shantou",23.5317479029,116.583729259
+43,96,270.43700000000001,Asia,CHN,China,Hainan,"Haikou, Hainan",19.9926553108,110.234787924
+44,99,858.96199999999999,Asia,CHN,China,Hebei,Shijiazhuang,38.0640581113,114.496291951
+45,100,1269.8900000000001,Asia,CHN,China,Hebei,"Handan, Xingtai",36.7648168973,114.408643832
+46,101,350.56599999999997,Asia,CHN,China,Hebei,Zhangjiakou,40.7137564785,114.921872314
+47,105,483.089,Asia,CHN,China,Hebei,Baoding,38.8797468111,115.468950341
+48,111,103.54,Asia,CHN,China,Hebei,Xingtai,37.0561410564,115.642181312
+49,112,201.285,Asia,CHN,China,Hebei,Hengshui,37.741129538,115.683686237
+50,114,380.64100000000002,Asia,CHN,China,"Beijing, Hebei","Beijing, Baoding",39.3927794941,115.799799023
+51,115,274.12299999999999,Asia,CHN,China,Hebei,Cangzhou,38.5841425829,116.11727822
+52,119,134.58500000000001,Asia,CHN,China,Hebei,Cangzhou,38.3646663497,116.45055939
+53,123,202.16499999999999,Asia,CHN,China,"Beijing, Hebei, Tianjin","Beijing, Langfang, Tianjin",39.532752682,116.709031603
+54,125,207.75700000000001,Asia,CHN,China,Hebei,"Baoding, Cangzhou, Langfang",38.9507106147,116.483430314
+55,126,148.53700000000001,Asia,CHN,China,Hebei,Langfang,39.1116816444,116.721916553
+56,127,127.038,Asia,CHN,China,"Hebei, Tianjin","Cangzhou, Langfang, Tianjin",38.5628105438,116.776071635
+57,128,270.79700000000003,Asia,CHN,China,Hebei,Cangzhou,38.3109627876,116.890116901
+58,130,369.37599999999998,Asia,CHN,China,"Beijing, Hebei, Tianjin","Beijing, Langfang, Tianjin",39.9363702383,116.931217619
+59,131,164.68,Asia,CHN,China,Hebei,Cangzhou,38.0827223782,117.183324591
+60,132,380.738,Asia,CHN,China,Hebei,Cangzhou,38.4072275669,117.330618738
+61,134,120.12,Asia,CHN,China,Hebei,Tangshan,40.1820815248,117.978394991
+62,135,875.36,Asia,CHN,China,Hebei,"Qinhuangdao, Tangshan",39.6903155508,118.295156401
+63,140,355.44600000000003,Asia,CHN,China,"Hebei, Liaoning","Qinhuangdao, Huludao",39.9369832902,119.583617061
+64,141,149.01,Asia,CHN,China,Heilongjiang,Qiqihar,47.3274130143,123.971928292
+65,142,106.711,Asia,CHN,China,Heilongjiang,Daqing,45.5832527848,124.836518259
+66,143,859.19299999999998,Asia,CHN,China,Heilongjiang,"Daqing, Suihua",46.5787710553,124.970875899
+67,148,228.58699999999999,Asia,CHN,China,Heilongjiang,"Harbin, Suihua",45.8668648997,126.561132497
+68,149,512.74199999999996,Asia,CHN,China,Heilongjiang,Harbin,45.69822374,126.651279295
+69,153,107.758,Asia,CHN,China,Heilongjiang,Hegang,47.3007184061,130.271259705
+70,154,160.68100000000001,Asia,CHN,China,Heilongjiang,Jiamusi,46.7962669762,130.35142218
+71,159,387.42700000000002,Asia,CHN,China,Henan,Luoyang,34.652762598,112.460370001
+72,160,303.95499999999998,Asia,CHN,China,Henan,Nanyang,33.0181759564,112.551008815
+73,162,141.523,Asia,CHN,China,Henan,"Jiaozuo, Jiyuan shi",35.1142936919,112.601255777
+74,164,176.43100000000001,Asia,CHN,China,Henan,Pingdingshan,33.8354900835,112.957571016
+75,165,205.66,Asia,CHN,China,Henan,"Luoyang, Zhengzhou",34.7266971587,112.999059152
+76,167,359.26,Asia,CHN,China,Henan,Jiaozuo,35.2159770904,113.16414628
+77,169,122.729,Asia,CHN,China,Henan,Xuchang,34.1452419866,113.474775679
+78,171,265.82400000000001,Asia,CHN,China,Henan,"Pingdingshan, Xuchang",33.7770579946,113.334252771
+79,172,1844.18,Asia,CHN,China,Henan,"Xuchang, Zhengzhou",34.6894227979,113.680575613
+80,173,424.46600000000001,Asia,CHN,China,Henan,"Xuchang, Zhengzhou",34.1439083273,113.762850246
+81,174,369.36200000000002,Asia,CHN,China,Henan,Xinxiang,35.3602999369,113.889558618
+82,177,152.82300000000001,Asia,CHN,China,Henan,"Luohe, Zhumadian",33.5780273416,114.044272128
+83,178,146.75700000000001,Asia,CHN,China,Henan,Zhumadian,32.9894766767,114.028583484
+84,179,112.533,Asia,CHN,China,Henan,"Xinyang, Zhumadian",32.470427314,113.999962075
+85,180,132.74299999999999,Asia,CHN,China,Henan,Xinyang,32.1291633576,114.109606946
+86,181,359.07400000000001,Asia,CHN,China,"Hebei, Henan","Handan, Anyang",36.1108224075,114.283033565
+87,182,117.91200000000001,Asia,CHN,China,Henan,"Anyang, Hebi",35.6982647244,114.253079342
+88,185,221.542,Asia,CHN,China,Henan,"Kaifeng, Zhengzhou",34.7937358411,114.293410289
+89,188,147.839,Asia,CHN,China,Henan,Zhoukou,33.6090774717,114.649389907
+90,190,207.72800000000001,Asia,CHN,China,Henan,"Anyang, Puyang",35.7535489353,115.026720466
+91,192,218.62700000000001,Asia,CHN,China,Henan,Shangqiu,34.4089658809,115.672352118
+92,196,131.297,Asia,CHN,China,Hubei,Shiyan,32.6234545446,110.80628064
+93,197,121.102,Asia,CHN,China,Hubei,Yichang,30.7036358772,111.339568659
+94,198,251.536,Asia,CHN,China,Hubei,Xiangfan,32.097196276,112.163398215
+95,199,212.292,Asia,CHN,China,Hubei,Jingzhou,30.3238605019,112.278514268
+96,206,109.497,Asia,CHN,China,Hubei,Xiaogan,30.9235620386,113.949490446
+97,208,545.47900000000004,Asia,CHN,China,Hubei,Wuhan,30.5725167921,114.163041467
+98,209,145.999,Asia,CHN,China,Hubei,Wuhan,30.752318106,114.272886326
+99,211,695.56899999999996,Asia,CHN,China,Hubei,"Ezhou, Wuhan",30.5042168117,114.418556356
+100,216,241.274,Asia,CHN,China,Hubei,"Ezhou, Huangshi",30.1706579582,115.009137428
+101,217,103.569,Asia,CHN,China,Hunan,Huaihua,27.5271226578,109.97582363
+102,220,144.18299999999999,Asia,CHN,China,Hunan,Changde,29.0139983056,111.690804557
+103,223,213.833,Asia,CHN,China,Hunan,Hengyang,26.8952529689,112.607577397
+104,225,727.49199999999996,Asia,CHN,China,Hunan,Changsha,28.2027771186,112.988421475
+105,226,244.78399999999999,Asia,CHN,China,Hunan,"Xiangtan, Zhuzhou",27.8754004522,112.941878632
+106,228,178.72900000000001,Asia,CHN,China,Hunan,"Xiangtan, Zhuzhou",27.8481054083,113.113959504
+107,229,103.861,Asia,CHN,China,Hunan,Yueyang,29.3723627112,113.149461287
+108,232,135.631,Asia,CHN,China,Nei Mongol,"Alxa, Ordos, Wuhai",39.6535008525,106.835847442
+109,234,564.48299999999995,Asia,CHN,China,Nei Mongol,"Baotou, Hohhot",40.6262673214,109.882529836
+110,237,376.209,Asia,CHN,China,Nei Mongol,Hohhot,40.8040897327,111.663050743
+111,239,167.98400000000001,Asia,CHN,China,Nei Mongol,Chifeng,42.2694930845,118.926082559
+112,240,128.209,Asia,CHN,China,Nei Mongol,Xing'an,46.0775223815,122.039159739
+113,243,466.70400000000001,Asia,CHN,China,Jiangsu,Xuzhou,34.2672521326,117.206880301
+114,247,188.79,Asia,CHN,China,Jiangsu,"Suqian, Xuzhou",33.9349161533,118.262786731
+115,250,309.85500000000002,Asia,CHN,China,Jiangsu,Nanjing,32.1849873404,118.719632127
+116,252,107.08199999999999,Asia,CHN,China,Jiangsu,Nanjing,31.6856983928,119.002051019
+117,253,310.59699999999998,Asia,CHN,China,Jiangsu,Huai'an,33.5766957731,119.071301506
+118,256,922.79,Asia,CHN,China,"Anhui, Jiangsu","Ma'anshan, Nanjing, Zhenjiang",32.0004520419,118.819196637
+119,259,229.93100000000001,Asia,CHN,China,Jiangsu,Lianyungang,34.6339792393,119.247488457
+120,261,441.07900000000001,Asia,CHN,China,Jiangsu,"Changzhou, Zhenjiang",32.1384035455,119.574244294
+121,262,277.30099999999999,Asia,CHN,China,Jiangsu,Yangzhou,32.3788010651,119.415057143
+122,268,146.126,Asia,CHN,China,Jiangsu,Wuxi,31.4111266068,119.799085906
+123,274,178.41499999999999,Asia,CHN,China,Jiangsu,"Taizhou, Yangzhou",32.4739582153,119.910922325
+124,277,207.45400000000001,Asia,CHN,China,Jiangsu,Yancheng,33.3637220173,120.146429548
+125,280,5674.21,Asia,CHN,China,"Jiangsu, Shanghai","Changzhou, Nantong, Suzhou, Wuxi, Zhenjiang, Shanghai",31.6147162284,120.487822034
+126,282,153.58099999999999,Asia,CHN,China,Jiangsu,"Nantong, Taizhou",32.0301885316,120.339386472
+127,283,105.23399999999999,Asia,CHN,China,"Jiangsu, Zhejiang","Suzhou, Jiaxing",30.9158822052,120.624985851
+128,284,755.32500000000005,Asia,CHN,China,Jiangsu,Nantong,31.9924269709,120.974139512
+129,287,109.124,Asia,CHN,China,Jiangxi,Yichun,27.8321283396,114.392019122
+130,289,147.71100000000001,Asia,CHN,China,Jiangxi,Ganzhou,25.837208599,114.90848187
+131,290,112.998,Asia,CHN,China,Jiangxi,Xinyu,27.8203265691,114.940259751
+132,291,224.64500000000001,Asia,CHN,China,Jiangxi,Nanchang,28.6860483935,115.803866831
+133,292,323.16399999999999,Asia,CHN,China,Jiangxi,Nanchang,28.621320617,115.935499961
+134,293,120.39,Asia,CHN,China,"Hubei, Jiangxi","Huanggang, Jiujiang",29.7057723637,115.990261767
+135,295,126.09399999999999,Asia,CHN,China,Jiangxi,Jingdezhen,29.305400503,117.189535588
+136,296,111.59399999999999,Asia,CHN,China,Jiangxi,Shangrao,28.4482949816,117.934721693
+137,298,101.18600000000001,Asia,CHN,China,"Jilin, Liaoning","Siping, Tieling",43.1615243883,124.373297403
+138,304,765.81799999999998,Asia,CHN,China,Jilin,"Changchun, Siping",43.8909123755,125.322447047
+139,305,247.01,Asia,CHN,China,Jilin,Jilin,43.8703593853,126.540967829
+140,309,234.84100000000001,Asia,CHN,China,Liaoning,Huludao,40.7115565318,120.827470918
+141,311,254.209,Asia,CHN,China,Liaoning,"Huludao, Jinzhou",41.1158388942,121.178474863
+142,314,182.39,Asia,CHN,China,Liaoning,Fuxin,42.0258686678,121.685984335
+143,316,588.43499999999995,Asia,CHN,China,Liaoning,Dalian,39.0123285343,121.670909266
+144,319,114.18600000000001,Asia,CHN,China,Liaoning,Panjin,41.107743901,122.069382559
+145,320,198.73,Asia,CHN,China,Liaoning,Tieling,40.2288713813,122.137418616
+146,322,137.72399999999999,Asia,CHN,China,Liaoning,"Anshan, Tieling",40.6358489074,122.503994916
+147,326,548.41399999999999,Asia,CHN,China,Liaoning,"Anshan, Liaoyang",41.1576252485,123.046185694
+148,328,1242.9100000000001,Asia,CHN,China,Liaoning,"Fushun, Shenyang",41.8007018262,123.492106612
+149,335,419.95299999999997,Asia,CHN,China,Ningxia Hui,Yinchuan,38.4633582041,106.227822728
+150,339,178.69499999999999,Asia,CHN,China,Qinghai,"Haidong, Xining",36.6223750533,101.756055398
+151,341,158.96600000000001,Asia,CHN,China,Shaanxi,Baoji,34.3563605895,107.241358081
+152,342,1360.91,Asia,CHN,China,Shaanxi,"Xi'an, Xianyang",34.3023036686,108.909397501
+153,346,125.20399999999999,Asia,CHN,China,Shaanxi,Yulin,38.2569201936,109.745942205
+154,352,204.77099999999999,Asia,CHN,China,Shandong,Heze,35.2490795783,115.487830139
+155,354,150.46100000000001,Asia,CHN,China,Shandong,Liaocheng,36.346683596,115.612333331
+156,357,318.25799999999998,Asia,CHN,China,Shandong,Liaocheng,36.4349684795,115.949323695
+157,363,208.74299999999999,Asia,CHN,China,"Hebei, Shandong","Cangzhou, Hengshui, Dezhou",37.4509586543,116.345439031
+158,365,154.637,Asia,CHN,China,Shandong,Jining,35.3585547416,116.34776071
+159,366,140.42400000000001,Asia,CHN,China,Shandong,Dezhou,37.2592432426,116.491743879
+160,367,199.167,Asia,CHN,China,Shandong,Jining,35.4087972592,116.605086933
+161,372,263.46199999999999,Asia,CHN,China,Shandong,"Jinan, Tai'an",36.1541255346,117.093715851
+162,373,104.53100000000001,Asia,CHN,China,Shandong,Zaozhuang,35.3985480022,116.95624636
+163,376,108.492,Asia,CHN,China,Shandong,Zaozhuang,35.0741169231,117.16136283
+164,379,1263.99,Asia,CHN,China,Shandong,"Dezhou, Jinan",36.6623773749,117.081592384
+165,381,198.078,Asia,CHN,China,Shandong,"Linyi, Zaozhuang",34.8136808162,117.577639506
+166,382,229.06800000000001,Asia,CHN,China,Shandong,Laiwu,36.2220854588,117.648573542
+167,384,129.298,Asia,CHN,China,Shandong,Tai'an,35.8841300203,117.723715278
+168,385,218.38300000000001,Asia,CHN,China,Shandong,"Jinan, Zibo",36.8521449769,117.780552571
+169,386,1253.83,Asia,CHN,China,Shandong,Linyi,35.0415476934,118.246343671
+170,387,169.995,Asia,CHN,China,Shandong,Binzhou,37.3998664285,117.986883349
+171,388,698.28700000000003,Asia,CHN,China,Shandong,"Binzhou, Weifang, Zibo",36.7796893155,118.082017421
+172,392,1500.19,Asia,CHN,China,Shandong,"Dongying, Weifang, Zibo",36.7934728558,118.817179082
+173,395,516.10599999999999,Asia,CHN,China,Shandong,Dongying,37.4813560961,118.581579848
+174,399,115.657,Asia,CHN,China,Shandong,"Linyi, Rizhao",35.5890879207,118.831425961
+175,401,121.05200000000001,Asia,CHN,China,"Jiangsu, Shandong","Lianyungang, Rizhao",35.156922966,119.323213876
+176,402,111.875,Asia,CHN,China,Shandong,Weifang,36.0144077751,119.403099911
+177,403,184.92400000000001,Asia,CHN,China,Shandong,Rizhao,35.4104797473,119.481839849
+178,404,133.77099999999999,Asia,CHN,China,Shandong,Weifang,36.391469954,119.776291158
+179,405,157.28399999999999,Asia,CHN,China,Shandong,"Qingdao, Yantai",37.095881204,119.902720434
+180,407,252.596,Asia,CHN,China,Shandong,Qingdao,35.9395932989,120.077843598
+181,412,974.26,Asia,CHN,China,Shandong,Qingdao,36.269371362,120.326071908
+182,415,534.49300000000005,Asia,CHN,China,Shandong,Yantai,37.4969609987,121.352007402
+183,417,129.946,Asia,CHN,China,Shandong,Weihai,36.8820404292,121.584472868
+184,418,240.96100000000001,Asia,CHN,China,Shandong,Weihai,37.4473785112,122.105165097
+185,419,131.47200000000001,Asia,CHN,China,Shandong,Weihai,37.2393298863,122.069561843
+186,423,3870.61,Asia,CHN,China,"Jiangsu, Shanghai","Suzhou, Shanghai",31.134215844,121.455000656
+187,424,119.04,Asia,CHN,China,Shanxi,Yuncheng,35.6506266807,110.698564731
+188,425,124.29,Asia,CHN,China,Shanxi,Yuncheng,35.0630616208,111.002765179
+189,427,127.245,Asia,CHN,China,Shanxi,Linfen,36.0804932157,111.508317442
+190,432,898.601,Asia,CHN,China,Shanxi,"Jinzhong, Taiyuan",37.8125233656,112.605187033
+191,433,145.66399999999999,Asia,CHN,China,Shanxi,Jincheng,35.5105792428,112.853924542
+192,436,111.652,Asia,CHN,China,Shanxi,Changzhi,36.1898425729,113.104208079
+193,437,221.36199999999999,Asia,CHN,China,Shanxi,Datong,40.0521441881,113.240342654
+194,438,220.31100000000001,Asia,CHN,China,Shanxi,"Jinzhong, Yangquan",37.8671869727,113.584734777
+195,441,1479.05,Asia,CHN,China,Sichuan,"Chengdu, Deyang",30.6806178492,104.051572673
+196,444,186.87700000000001,Asia,CHN,China,Sichuan,Mianyang,31.4671099161,104.709190662
+197,450,156.577,Asia,CHN,China,Sichuan,Nanchong,30.7976134449,106.090732177
+198,452,694.97199999999998,Asia,TWN,Taiwan,"Kaohsiung, Tainan, Taiwan","Kaohsiung, Tainan, Pingtung",22.8209267935,120.291477012
+199,457,843.65,Asia,TWN,Taiwan,"Taichung, Taiwan","Taichung, Changhua, Miaoli",24.1091594315,120.582843333
+200,458,191.90799999999999,Asia,TWN,Taiwan,"Kaohsiung, Taipei, Taiwan","Hsinchu City, Taoyuan, Hsinchu County, Miaoli",24.8070441745,120.973490918
+201,459,896.05200000000002,Asia,TWN,Taiwan,"New Taipei, Taipei, Taiwan","New Taipei City, Taipei, Taoyuan, Hsinchu County, Keelung",25.0115767971,121.354050895
+202,460,161.70699999999999,Asia,TWN,Taiwan,Taiwan,Yilan,24.715160151,121.763406133
+203,461,201.71600000000001,Asia,CHN,China,Tianjin,Tianjin,38.9416957135,116.955063227
+204,462,2009.37,Asia,CHN,China,"Hebei, Tianjin","Langfang, Tianjin",39.107929609,117.28310881
+205,465,113.11799999999999,Asia,CHN,China,"Hebei, Tianjin","Cangzhou, Tianjin",38.6357367908,117.317434732
+206,466,107.33,Asia,CHN,China,Tianjin,Tianjin,39.9973983092,117.402059578
+207,470,136.096,Asia,CHN,China,Xinjiang Uygur,"Kashgar, Kizilsu Kirghiz",39.457705277,76.0105560481
+208,471,109.09099999999999,Asia,CHN,China,Xinjiang Uygur,Khotan,37.1187209132,79.931452768
+209,472,114.559,Asia,CHN,China,Xinjiang Uygur,Aksu,41.1841495317,80.2686458727
+210,473,133.452,Asia,CHN,China,Xinjiang Uygur,Ili Kazakh,43.9319464375,81.3326040561
+211,476,199.74299999999999,Asia,CHN,China,Xinjiang Uygur,"Ili Kazakh, Karamay, Tacheng",44.3856958377,84.8720189301
+212,477,179.48500000000001,Asia,CHN,China,Xinjiang Uygur,"Karamay, Tacheng",45.5926671441,84.960374562
+213,478,124.145,Asia,CHN,China,Xinjiang Uygur,"Changji Hui, Shihezi",44.3140996494,86.0607519819
+214,480,908.82600000000002,Asia,CHN,China,Xinjiang Uygur,"Ürümqi, Changji Hui",43.8857913018,87.486040464
+215,486,131.86699999999999,Asia,CHN,China,Yunnan,Yuxi,24.3660470198,102.530134432
+216,488,712.38199999999995,Asia,CHN,China,Yunnan,Kunming,24.9621157491,102.776546177
+217,490,104.26,Asia,CHN,China,Yunnan,Qujing,25.5232860302,103.796576453
+218,491,148.90899999999999,Asia,CHN,China,Zhejiang,Quzhou,28.9365434918,118.907749971
+219,492,111.72,Asia,CHN,China,Zhejiang,Huzhou,30.6374926561,119.655933024
+220,493,178.858,Asia,CHN,China,Zhejiang,Jinhua,29.1007655,119.630768855
+221,494,565.00800000000004,Asia,CHN,China,"Jiangsu, Zhejiang","Suzhou, Huzhou",30.9203825511,120.039095923
+222,495,416.90899999999999,Asia,CHN,China,Zhejiang,Jinhua,29.2921552951,120.082294085
+223,496,136.36000000000001,Asia,CHN,China,Zhejiang,Jinhua,28.923690243,120.060835351
+224,497,154.22200000000001,Asia,CHN,China,Zhejiang,Shaoxing,29.7178593118,120.211623825
+225,500,2108.2399999999998,Asia,CHN,China,Zhejiang,"Hangzhou, Huzhou, Jiaxing",30.4597338669,120.309171666
+226,501,1510.5,Asia,CHN,China,Zhejiang,"Hangzhou, Shaoxing",30.1208221925,120.402586456
+227,502,751.39400000000001,Asia,CHN,China,Zhejiang,Wenzhou,27.7840741709,120.626284851
+228,504,721.20100000000002,Asia,CHN,China,"Shanghai, Zhejiang","Shanghai, Jiaxing",30.7379153362,120.88024621
+229,505,210.82,Asia,CHN,China,Zhejiang,Wenzhou,28.0802032825,120.932396066
+230,507,868.19799999999998,Asia,CHN,China,Zhejiang,"Ningbo, Shaoxing",30.1665843836,121.195917824
+231,508,859.70899999999995,Asia,CHN,China,Zhejiang,Taizhou,28.5333838354,121.39630114
+232,510,104.21299999999999,Asia,CHN,China,Zhejiang,Taizhou,28.734707424,121.501192347
+233,511,922.77099999999996,Asia,CHN,China,Zhejiang,Ningbo,29.8751054049,121.586144123
+234,516,381.85599999999999,Africa,DZA,Algeria,"Alger, Boumerdès","Ain Benian, Baraki, Birtouta, Bordj El Kiffan, Bouzareah, Cheraga, Dar El Beida, Djasr Kasentina, Douera, Draria, El Achour, Haraoua, Khraicia, Kouba, Les Eucalyptus, Ouled Chebel, Ouled Fayet, Reghaia, Rouiba, Saoula, Sidi Moussa, Staoueli, Tessala-El-Merdja, Boudouaou El Bahri, Boudouaou, Boumerdes, Corso, Hammadi, Khemis El Khechna, Ouled Hedadj, Ouled Moussa, Tidjelabine",36.7277628006,3.13496856347
+235,520,133.45400000000001,Africa,DZA,Algeria,"Annaba, El Tarf","Annaba, Berrahal, Chorfa, El Bouni, El Hadjar, Oued El Aneb, Seraidi, Sidi Amar, Ben M'Hidi, Echatt",36.8421959124,7.73168223822
+236,521,107.136,Africa,DZA,Algeria,Oran,"Bir El Djir, El Kerma, Es Senia, Hassi Bounif, Misserghin, Oran, Sidi Chahmi",35.6867974865,-0.600664549679
+237,522,554.81399999999996,Africa,AGO,Angola,Luanda,"Cacuaco, Cazenga, Ingombota, Kilamba Kiaxi, Maianga, Rangel, Samba, Sambizanga, Viana",-8.8827629572,13.3120151675
+238,525,150.708,SouthAmerica,ARG,Argentina,Buenos Aires,"Berisso, Ensenada, La Plata",-34.9216718714,-57.9704782422
+239,526,1732.23,SouthAmerica,ARG,Argentina,"Buenos Aires, Ciudad de Buenos Aires","Almirante Brown, Avellaneda, Berazategui, Escobar, Esteban Echeverría, Florencio Varela, General Rodríguez, General San Martín, General Sarmiento, La Matanza, Lanús, Lomas de Zamora, Marcos Paz, Merlo, Morón, Moreno, Pilar, Quilmes, San Fernando (2), San Isidro, San Vicente, Tigre, Tres de Febrero, Vicente López, Distrito Federal",-34.6453831266,-58.5376122156
+240,528,160.523,SouthAmerica,ARG,Argentina,Santa Fe,"Rosario, San Lorenzo",-32.9296289196,-60.685465802
+241,529,239.14400000000001,SouthAmerica,ARG,Argentina,Córdoba,"Capital, Colón",-31.4010170969,-64.1999882953
+242,530,108.56699999999999,SouthAmerica,ARG,Argentina,Tucumán,"Capital, Cruz Alta, Lules, Tafí Viejo, Yerba Buena",-26.8248738949,-65.2125853401
+243,532,128.54400000000001,SouthAmerica,ARG,Argentina,San Juan,"Capital, Chimbas, Pocito, Rawson, Rivadavia, Santa Lucía, Zonda",-31.5353940381,-68.5628275054
+244,533,267.94200000000001,SouthAmerica,ARG,Argentina,Mendoza,"Capital, Godoy Cruz, Guaymallén, Las Heras, Luján de Cuyo, Maipú",-32.9241778349,-68.8260715023
+245,534,110.104,Asia,ARM,Armenia,"Ararat, Armavir, Erevan, Kotayk",Unknown,40.1849767525,44.5147338427
+246,536,1572.34,Australia_Oceania,AUS,Australia,Western Australia,"Armadale, Bassendean, Bayswater, Belmont, Cambridge, Canning, Claremont, Cockburn, Cottesloe, East Fremantle, Fremantle, Gosnells, Joondalup, Kalamunda, Kwinana, Mandurah, Melville, Mosman Park, Mundaring, Murray, Nedlands, Peppermint Grove, Perth, Rockingham, Serpentine-Jarrahdale, South Perth, Stirling, Subiaco, Swan, Victoria Park, Vincent, Wanneroo",-32.0037988939,115.861391209
+247,538,701.57799999999997,Australia_Oceania,AUS,Australia,South Australia,"Adelaide Hills -Ranges, Adelaide, Burnside - North-East, Burnside  - South-West, Campbelltown - East, Campbelltown - West, Charles Sturt - Coastal, Charles Sturt - Inner East, Charles Sturt - Inner West, Charles Sturt - North-East, Holdfast Bay - North, Holdfast Bay - South, Marion - Central, Marion - North, Marion - South, Mitcham - Hills, Mitcham - North-East, Mitcham  - West, Norw. P'ham St Ptrs  - East, Norw. P'ham St Ptrs  - West, Onkaparinga - Hackham, Onkaparinga - Hills, Onkaparinga - Morphett, Onkaparinga - North Coast, Onkaparinga - Reservoir, Onkaparinga - South Coast, Onkaparinga - Woodcroft, Playford - East Central, Playford - Elizabeth, Playford - Hills, Playford - West Central, Playford - West, Port Adel. Enfield - Coast, Port Adel. Enfield - East, Port Adel. Enfield - Inner, Port Adel. Enfield - Park, Port Adel. Enfield - Port, Prospect, Salisbury - Central, Salisbury - Inner North, Salisbury - North-East, Salisbury - South-East, Salisbury Bal, Tea Tree Gully - Central, Tea Tree Gully - North, Tea Tree Gully - South, Tea Tree Gully  - Hills, Unley - East, Unley - West, Walkerville, West Torrens - East, West Torrens - West",-34.9038714064,138.595664927
+248,542,1661.53,Australia_Oceania,AUS,Australia,Victoria,"Banyule - Heidelberg, Banyule - North, Bayside  - Brighton, Bayside  - South, Boroondara  - Camberwell N., Boroondara  - Camberwell S., Boroondara  - Hawthorn, Boroondara  - Kew, Brimbank - Sunshine, Brimbank  - Keilor, Cardinia - Pakenham, Casey - Berwick, Casey - Cranbourne, Casey - Hallam, Casey - South, Darebin- Northcote, Darebin - Preston, Frankston - East, Frankston - West, Glen Eira - Caulfield, Glen Eira - South, Gr. Dandenong - Dandenong, Gr. Dandenong Bal, Hobsons Bay - Altona, Hobsons Bay - Williamstown, Hume - Broadmeadows, Hume - Craigieburn, Kingston - North, Kingston - South, Knox - North-East, Knox - North-West, Knox - South, Manningham - East, Manningham - West, Maribyrnong, Maroondah - Croydon, Maroondah - Ringwood, Melbourne - Inner, Melbourne - Remainder, Melbourne - S'bank-D'lands, Melton - East, Monash - South-West, Monash - Waverley East, Monash - Waverley West, Moonee Valley - Essendon, Moonee Valley - West, Moreland - Brunswick, Moreland - Coburg, Moreland - North, Nillumbik - South, Nillumbik  - South-West, Port Phillip - St Kilda, Port Phillip - West, Stonnington - Malvern, Stonnington - Prahran, Whitehorse - Box Hill, Whitehorse - Nunawading E., Whitehorse  - Nunawading W., Whittlesea - North, Whittlesea  - South-East, Whittlesea  - South-West, Wyndham - North, Wyndham - South, Wyndham - West, Yarra - North, Yarra - Richmond, Yarra Ranges - Lilydale",-37.8451265815,145.03722745
+249,544,102.4,Australia_Oceania,AUS,Australia,Queensland,"Aitkenvale, City, Cranbrook, Currajong, Douglas, Garbutt, Gulliver, Heatley, Hermit Park, Hyde Park-Mysterton, Kirwan, Mt Louisa-Mt St John-Bohle, Mundingburra, Murray, North Ward-Castle Hill, Oonoonba-Idalia-Cluden, Pimlico, Railway Estate, Rosslea, Rowes Bay-Belgian Gardens, South Townsville, Stuart-Roseneath, Thuringowa - Pt A Bal, Townsville - Pt B, Vincent, West End, Wulguru",-19.2926017075,146.770926793
+250,545,111.224,Australia_Oceania,AUS,Australia,Australian Capital Territory,"Acton, Banks, Barton, Belconnen - SSD Bal, Bonython, Calwell, Chapman, Chifley, Chisholm, Conder, Curtin, Deakin, Duffy, Fadden, Farrer, Fisher, Forrest, Fyshwick, Garran, Gilmore, Gordon, Gowrie, Greenway, Griffith, Holder, Hughes, Isaacs, Isabella Plains, Kambah, Kingston, Lyons, Macarthur, Mawson, Monash, Narrabundah, O'Malley, Oxley, Parkes, Pearce, Phillip, Pialligo, Red Hill, Richardson, Rivett, Stirling, Stromlo, Symonston, Theodore, Torrens, Tuggeranong - SSD Bal, Wanniassa, Waramanga, Weston Creek-Stromlo - SSD Bal, Weston, Yarralumla",-35.3764807235,149.093881163
+251,546,111.077,Australia_Oceania,AUS,Australia,Australian Capital Territory,"Acton, Ainslie, Amaroo, Aranda, Belconnen - SSD Bal, Belconnen Town Centre, Braddon, Bruce, Campbell, Charnwood, City, Cook, Dickson, Downer, Dunlop, Duntroon, Evatt, Florey, Flynn, Fraser, Giralang, Gungahlin-Hall - SSD Bal, Gungahlin, Hackett, Harrison, Hawker, Higgins, Holt, Kaleen, Latham, Lyneham, Macgregor, Macquarie, Majura, McKellar, Melba, Mitchell, Ngunnawal, Nicholls, O'Connor, Page, Palmerston, Parkes, Reid, Russell, Scullin, Spence, Turner, Watson, Weetangera",-35.2194432926,149.096204631
+252,551,1193.43,Australia_Oceania,AUS,Australia,New South Wales,"Ashfield, Auburn, Bankstown - North-East, Bankstown  - North-West, Bankstown  - South, Baulkham Hills - Central, Baulkham Hills  - North, Baulkham Hills  - South, Blacktown - South-East, Blacktown  - North, Blacktown  - South-West, Botany Bay, Burwood, Camden, Campbelltown - North, Campbelltown  - South, Canada Bay - Concord, Canada Bay - Drummoyne, Canterbury, Fairfield - East, Fairfield - West, Holroyd, Hornsby - North, Hornsby - South, Hunters Hill, Hurstville, Kogarah, Ku-ring-gai, Lane Cove, Leichhardt, Liverpool - East, Liverpool - West, Marrickville, Mosman, North Sydney, Parramatta - North-East, Parramatta - North-West, Parramatta - South, Parramatta  - Inner, Penrith - East, Randwick, Rockdale, Ryde, Strathfield, Sydney - East, Sydney - Inner, Sydney - South, Sydney - West, Waverley, Willoughby, Woollahra",-33.8536182792,151.006183355
+253,553,175.00299999999999,Australia_Oceania,AUS,Australia,New South Wales,"Lake Macquarie - East, Lake Macquarie - West, Lake Macquarie  - North, Newcastle - Inner City, Newcastle - Outer West, Newcastle - Throsby",-32.9382337392,151.682664019
+254,555,1345.74,Australia_Oceania,AUS,Australia,Queensland,"Acacia Ridge, Albany Creek, Albion, Alderley, Alexandra Hills, Algester, Annerley, Archerfield, Ascot, Ashgrove, Aspley, Bald Hills, Balmoral, Banyo, Bardon, Beaudesert  - Pt A, Beenleigh, Belmont-Mackenzie, Bethania-Waterford, Birkdale, Boondall, Bowen Hills, Bracken Ridge, Bray Park, Bridgeman Downs, Brighton, Brookfield (incl. Brisbane Forest Park), Browns Plains, Bulimba, Burbank, Burpengary-Narangba, Caboolture - Midwest, Caboolture  - Central, Caboolture  - East, Calamvale, Camp Hill, Cannon Hill, Capalaba, Carbrook-Cornubia, Carina Heights, Carina, Carindale, Carseldine, Central Pine West, Chandler-Capalaba West, Chapel Hill, Chelmer, Chermside West, Chermside, City - Inner, City - Remainder, Clayfield, Cleveland, Clontarf, Coopers Plains, Coorparoo, Corinda, Daisy Hill-Priestdale, Dakabin-Kallangur-M. Downs, Darra-Sumner, Deagon, Deception Bay, Doolandella-Forest Lake, Durack, Dutton Park, Eagleby, East Brisbane, Edens Landing-Holmview, Eight Mile Plains, Ellen Grove, Enoggera, Everton Park, Fairfield, Ferny Grove, Fig Tree Pocket, Fortitude Valley, Geebung, Graceville, Grange, Greenbank-Boronia Heights, Greenslopes, Griffin-Mango Hill, Gumdale-Ransome, Hamilton, Hawthorne, Hemmant-Lytton, Hendra, Herston, Highgate Hill, Hills District, Holland Park West, Holland Park, Inala, Indooroopilly, Ipswich - Central, Ipswich - East, Ipswich - North, Jacobs Well-Alberton, Jamboree Heights, Jindalee, Kangaroo Point, Kedron, Kelvin Grove, Kenmore Hills, Kenmore, Keperra, Kingsholme-Upper Coomera, Kingston, Kuraby, Lawnton, Logan, Loganholme, Loganlea, Lota, Lutwyche, MacGregor, Manly West, Manly, Mansfield, Margate-Woody Point, Marsden, McDowall, Middle Park, Milton, Mitchelton, Moorooka, Morayfield, Morningside, Mount Gravatt East, Mount Gravatt, Mount Ommaney, Mt Warren Park, Murarrie, Nathan, New Farm, Newmarket, Newstead, Norman Park, Northgate, Nudgee, Nundah, Ormeau-Yatala, Ormiston, Oxley, Paddington, Pallara-Heathwood-Larapinta, Parkinson-Drewvale, Petrie, Pimpama-Coomera, Pine Rivers Bal, Pinjarra Hills, Pinkenba-Eagle Farm, Pullenvale, Red Hill, Redcliffe-Scarborough, Redland Bal, Redland Bay, Richlands, Riverhills, Robertson, Rochedale South, Rochedale, Rocklea, Rothwell-Kippa-Ring, Runcorn, Salisbury, Sandgate, Seventeen Mile Rocks, Shailer Park, Sheldon-Mt Cotton, Sherwood, Slacks Creek, South Brisbane, Spring Hill, Springwood, St Lucia, Stafford Heights, Stafford, Strathpine-Brendale, Stretton-Karawatha, Sunnybank Hills, Sunnybank, Taigum-Fitzgibbon, Tanah Merah, Taringa, Tarragindi, The Gap, Thorneside, Thornlands, Tingalpa, Toowong, Underwood, Upper Kedron, Upper Mount Gravatt, Victoria Point, Virginia, Wacol, Wakerley, Waterford West, Wavell Heights, Wellington Point, West End, Westlake, Willawong, Wilston, Windsor, Wishart, Wolffdene-Bahrs Scrub, Woodridge, Woolloongabba, Wooloowin, Wynnum West, Wynnum, Yeerongpilly, Yeronga, Zillmere",-27.4922832834,153.034397903
+255,557,359.95100000000002,Australia_Oceania,AUS,Australia,"New South Wales, Queensland","Tweed  - Tweed-Heads, Ashmore-Benowa, Biggera Waters-Labrador, Bilinga-Tugun, Broadbeach-Mermaid Beach, Broadbeach Waters, Bundall, Burleigh Heads, Burleigh Waters, Carrara-Merrimac, Coolangatta, Coombabah, Currumbin Valley-Tallebudgera, Currumbin Waters, Currumbin, Elanora, Helensvale, Hope Island, Kingsholme-Upper Coomera, Main Beach-South Stradbroke, Mermaid Wtrs-Clear Is. Wtrs, Miami, Molendinar, Mudgeeraba-Reedy Creek, Nerang, Oxenford-Maudsland, Pacific Pines-Gaven, Palm Beach, Paradise Point-Runaway Bay, Parkwood-Arundel, Pimpama-Coomera, Robina, Southport, Surfers Paradise, Varsity Lakes, Worongary-Tallai",-27.9978211916,153.38696341
+256,560,339.63200000000001,Europe,AUT,Austria,"Niederösterreich, Wien","Baden, Gänserndorf, Korneuburg, Mödling, Wien Umgebung, Wien",48.1830649443,16.3764854168
+257,562,108.86,Asia,AZE,Azerbaijan,Absheron,"Abşeron, Bakı, Sumqayıt",40.5665958342,49.7173085372
+258,563,472.012,Asia,AZE,Azerbaijan,Absheron,"Abşeron, Bakı",40.4441494832,49.9325723485
+259,565,131.947,Asia,BHR,Bahrain,"Capital, Central, Northern, Southern",Unknown,26.1595598777,50.5355473022
+260,566,245.35,Asia,BGD,Bangladesh,Dhaka,"Dhaka, Munshigonj, Naray Angonj",23.7211748236,90.4379716334
+261,569,511.37700000000001,Europe,BLR,Belarus,Minsk,"Minsk, Smalyavichy",53.8936855786,27.6003124415
+262,573,117.93,Europe,BLR,Belarus,"Brest, Lublin","Brest, Biała Podlaska",52.0979420161,23.7186133072
+263,576,250.35,Europe,BEL,Belgium,"Vlaanderen, Wallonie, Nord-Pas-de-Calais","West-Vlaanderen, Hainaut, Nord",50.8491127262,3.24897149859
+264,578,187.76599999999999,Europe,BEL,Belgium,"Vlaanderen, Zeeland","Oost-Vlaanderen, Terneuzen",51.077262716,3.74555357243
+265,580,521.024,Europe,BEL,Belgium,Vlaanderen,"Antwerpen, Oost-Vlaanderen, Vlaams Brabant",51.1899382596,4.3911252889
+266,581,136.77600000000001,Europe,BEL,Belgium,Wallonie,Hainaut,50.4282454831,4.45266431217
+267,582,313.14400000000001,Europe,BEL,Belgium,"Bruxelles, Vlaanderen, Wallonie","Bruxelles, Vlaams Brabant, Brabant Wallon",50.8559310995,4.37079147559
+268,584,173.98599999999999,Europe,BEL,Belgium,"Vlaanderen, Wallonie","Limburg, Liège",50.6470114884,5.55764985354
+269,585,220.91200000000001,Africa,BEN,Benin,"Atlantique, Littoral, Ouémé","Abomey-Calavi, Ouidah, Sô-Ava, Cotonou, Aguégués, Sèmè-Kpodji",6.39590407474,2.38123556288
+270,587,140.494,SouthAmerica,BOL,Bolivia,Santa Cruz,Andrés Ibáñez,-17.7912622039,-63.167016757
+271,589,229.00299999999999,SouthAmerica,BOL,Bolivia,Cochabamba,"Cercado, Chapare, Esteban Arce, Quillacollo",-17.4091349296,-66.1721695954
+272,591,198.58600000000001,SouthAmerica,BOL,Bolivia,La Paz,"Ingavi, Pedro Domingo Murillo",-16.5184615315,-68.1741218139
+273,592,110.437,Africa,BWA,Botswana,"Gaborone, Kweneng, South-East","Gaborone, Kweneng North, Kweneng South, South East",-24.6419151125,25.9063473832
+274,593,144.816,SouthAmerica,BRA,Brazil,Paraíba,"Bayeux, Cabedelo, João Pessoa, Santa Rita",-7.14183899621,-34.877179765
+275,594,245.94499999999999,SouthAmerica,BRA,Brazil,Pernambuco,"Abreu e Lima, Cabo, Camaragibe, Igaracu, Jaboatão dos Guararapes, Olinda, Paulista, Recife, São Lourenço da Mata",-8.04954689047,-34.9174107682
+276,599,225.178,SouthAmerica,BRA,Brazil,Bahia,"Camaçari, Lauro de Freitas, Salvador, Simões Filho",-12.9269612411,-38.4248202972
+277,600,306.483,SouthAmerica,BRA,Brazil,Ceará,"Caucaia, Eusébio, Fortaleza, Itaitinga, Maracanaú, Maranguape, Pacatuba",-3.79451227604,-38.5531511273
+278,602,117.884,SouthAmerica,BRA,Brazil,Espírito Santo,"Serra, Vitoria",-20.2129058764,-40.2559887143
+279,603,116.991,SouthAmerica,BRA,Brazil,Espírito Santo,"Cariacica, Serra, Viana, Vila Velha",-20.3382929336,-40.3682223325
+280,604,167.5,SouthAmerica,BRA,Brazil,"Bahia, Pernambuco","Juazeiro, Petrolina",-9.41975099484,-40.5067719268
+281,606,150.04599999999999,SouthAmerica,BRA,Brazil,"Maranhão, Piauí","Timon, Teresina",-5.10481090945,-42.7875254513
+282,607,179.828,SouthAmerica,BRA,Brazil,Rio de Janeiro,"Itaboraí, Niterói, São Gonçalo",-22.8371785576,-43.0278706385
+283,608,884.39700000000005,SouthAmerica,BRA,Brazil,Rio de Janeiro,"Belford Roxo, Duque de Caxias, Magé, Nilópolis, Nova Iguaçu, Queimados, Rio de Janeiro, São João de Meriti",-22.8277163823,-43.4034459979
+284,611,575.09900000000005,SouthAmerica,BRA,Brazil,Minas Gerais,"Belo Horizonte, Betim, Contagem, Ibirité, Nova Lima, Ribeirão das Neves, Sabará, Santa Luzia, Vespasiano",-19.9020257813,-44.0072776859
+285,615,154.45400000000001,SouthAmerica,BRA,Brazil,São Paulo,"Caçapava, Jacareí, São José dos Campos",-23.2350858646,-45.8986788632
+286,617,1918.39,SouthAmerica,BRA,Brazil,São Paulo,"Aruja, Barueri, Caieiras, Carapicuíba, Cotia, Diadema, Embu, Ferraz de Vascon, Guarulhos, Itapecerica da Serra, Itapevi, Itaquaquecetuba, Jandira, Mauá, Mogi das Cruzes, Osasco, Poá, Ribeirão Pires, Rio Grande da Serra, São Bernardo do Campo, São Caetano do Sul, São Paulo, Santana de Parnaíba, Santo André, Suzanápolis, Suzano, Taboão da Serra",-23.5627475307,-46.5908547015
+287,619,146.55799999999999,SouthAmerica,BRA,Brazil,São Paulo,"Campos do Jordão, Itupeva, Jundiaí, Várzea Paulista",-23.1840527571,-46.904839234
+288,621,567.54399999999998,SouthAmerica,BRA,Brazil,São Paulo,"Americana, Campinas, Cosmópolis, Hortolândia, Itupeva, Jundiaí, Louveira, Monte Mor, Nova Odessa, Paulínia, Santa Bárbara d'Oeste, Sumaré, Valinhos, Vinhedo",-22.8750940215,-47.1530302886
+289,622,163.661,SouthAmerica,BRA,Brazil,São Paulo,"Itu, Sorocaba, Votorantim",-23.4873936527,-47.4570995742
+290,626,112.795,SouthAmerica,BRA,Brazil,São Paulo,Ribeirao Preto,-21.172456694,-47.8009356123
+291,627,299.428,SouthAmerica,BRA,Brazil,Distrito Federal,Brasília,-15.8382069998,-48.0168369158
+292,631,109.92700000000001,SouthAmerica,BRA,Brazil,Minas Gerais,Uberlândia,-18.9150442493,-48.2795014574
+293,632,106.18,SouthAmerica,BRA,Brazil,Pará,"Ananindeua, Belém, Marituba",-1.38956349838,-48.4418143985
+294,633,122.355,SouthAmerica,BRA,Brazil,Santa Catarina,"Biguaçu, Floriniapolis, Palhoça, São José",-27.6049919333,-48.6533841913
+295,635,101.56,SouthAmerica,BRA,Brazil,Santa Catarina,"Araquari, Joinvile",-26.3026052301,-48.8349969154
+296,640,433.62700000000001,SouthAmerica,BRA,Brazil,Paraná,"Almirante Tamandaré, Araucária, Campo Magro, Colombo, Curitiba, Pinhais, Piraquara, São José dos Pinhais",-25.464379633,-49.2734355015
+297,641,357.09500000000003,SouthAmerica,BRA,Brazil,Goiás,"Aparecida de Goiânia, Goiania",-16.7159859622,-49.2875040604
+298,643,114.41500000000001,SouthAmerica,BRA,Brazil,Santa Catarina,"Criciúma, Forquilhinha, Içara, Siderópolis",-28.7012321539,-49.3774606403
+299,647,663.53499999999997,SouthAmerica,BRA,Brazil,Rio Grande do Sul,"Alvorada, Cachoeirinha, Campo Bom, Canoas, Estação, Esteio, Gravataí, Nova Santa Rita, Novo Hamburgo, Portao, Porto Alegre, São Leopoldo, Sapiranga, Sapucaia do Sul, Viamão",-29.9187440766,-51.1295773744
+300,648,133.745,SouthAmerica,BRA,Brazil,Paraná,"Cambé, Londrina",-23.3046022534,-51.1819830687
+301,649,102.709,SouthAmerica,BRA,Brazil,Rio Grande do Sul,Caxias do Sul,-29.1608439323,-51.1797489328
+302,651,115.532,SouthAmerica,BRA,Brazil,Paraná,"Marialva, Maringá, Paiçandu, Sarandi",-23.4225292665,-51.9264251043
+303,657,205.41399999999999,SouthAmerica,BRA,Brazil,Mato Grosso do Sul,Campo Grande,-20.4759880061,-54.6179775099
+304,659,156.548,SouthAmerica,BRA,Brazil,Mato Grosso,"Cuiaba, Várzea Grande",-15.6106813129,-56.0871930777
+305,660,214.72200000000001,SouthAmerica,BRA,Brazil,Amazonas,Maués,-3.06695087281,-59.9937923129
+306,661,160.316,SouthAmerica,BRA,Brazil,Rondônia,Porto Velho,-8.76612873523,-63.846613706
+307,664,201.78299999999999,Europe,BGR,Bulgaria,"Grad Sofiya, Sofia","Stolichna, Bozhurishte",42.6863465419,23.3317970404
+308,666,264.98099999999999,Africa,BFA,Burkina Faso,Centre,Kadiogo,12.3611745928,-1.51865973182
+309,667,211.65299999999999,Asia,MMR,Myanmar,Yangon,"Yangon-E, Yangon-N, Yangon-W",16.8531468334,96.1645107475
+310,669,219.83099999999999,Asia,KHM,Cambodia,"Kâmpóng Spœ, Kândal, Phnom Penh","Samraong Tong, Angk Snuol, Kandal Stueng, Kien Svay, Ponhea Lueu, S'ang, Ta Khmau, Dangkao, Mean Chey, Phnom Penh, Ruessei Kaev",11.5513076295,104.866113881
+311,670,118.48,Africa,CMR,Cameroon,Littoral,Wouri,4.0480262149,9.74614459753
+312,671,163.12899999999999,Africa,CMR,Cameroon,Centre,"Lekié, Mefou et Afamba, Mefou et Akono, Mfoundi",3.86341452858,11.5176695962
+313,675,227.82,NorthAmerica,CAN,Canada,Québec,"Communauté-Urbaine-de-Québec, La Côte-de-Beaupré, La Jacques-Cartier",46.8352995887,-71.2907832068
+314,678,311.827,NorthAmerica,CAN,Canada,Québec,"Champlain, Communauté-Urbaine-de-Montréal, La Vallée-du-Richelieu, Lajemmerais, Roussillon, Rouville",45.50673507,-73.4230764684
+315,679,830.12699999999995,NorthAmerica,CAN,Canada,Québec,"Communauté-Urbaine-de-Montréal, Deux-Montagnes, La Rivière-du-Nord, Laval, Les Moulins, Mirabel, Thérèse-De Blainville",45.5805825069,-73.7279105893
+316,680,489.05700000000002,NorthAmerica,CAN,Canada,"Ontario, Québec","Ottawa, Communauté-Urbaine-de-l'Outaouais, Les Collines-de-l'Outaouais",45.3857290046,-75.7159593876
+317,683,323.32100000000003,NorthAmerica,CAN,Canada,"Ontario, New York","Lake Ontario, Niagara, Lake Ontario, Niagara",43.1054876411,-79.1864606965
+318,684,2688.87,NorthAmerica,CAN,Canada,Ontario,"Durham, Haldimand-Norfolk, Halton, Hamilton, Lake Ontario, Niagara, Peel, Simcoe, Toronto, York",43.662860412,-79.537799604
+319,688,257.89999999999998,NorthAmerica,CAN,Canada,Ontario,"Waterloo, Wellington",43.4278358775,-80.4388871244
+320,689,167.75899999999999,NorthAmerica,CAN,Canada,Ontario,Greater Sudbury,46.4889301736,-80.9953231012
+321,690,210.79900000000001,NorthAmerica,CAN,Canada,Ontario,Middlesex,42.9803401794,-81.2468966436
+322,693,165.53299999999999,NorthAmerica,CAN,Canada,Ontario,Essex,42.2784533234,-82.9838888715
+323,695,324.32400000000001,NorthAmerica,CAN,Canada,Manitoba,"Division No. 10, Division No. 11, Division No. 12, Division No. 13, Division No. 14",49.8796999567,-97.1459532741
+324,696,108.867,NorthAmerica,CAN,Canada,Saskatchewan,Division No. 6,50.4542758391,-104.606384964
+325,697,131.041,NorthAmerica,CAN,Canada,Saskatchewan,Division No. 11,52.1340003365,-106.646770231
+326,700,799.779,NorthAmerica,CAN,Canada,Alberta,Division No. 11,53.5138652725,-113.504099148
+327,702,767.62300000000005,NorthAmerica,CAN,Canada,Alberta,Division No. 6,51.0412822749,-114.050645528
+328,703,101.697,NorthAmerica,CAN,Canada,British Columbia,Central Okanagan,49.8841722512,-119.434840816
+329,706,759.39499999999998,NorthAmerica,CAN,Canada,"British Columbia, Washington","Greater Vancouver, Whatcom",49.1834738669,-122.930920998
+330,713,680.21600000000001,SouthAmerica,CHL,Chile,Región Metropolitana de Santiago,"Chacabuco, Cordillera, Maipo, Santiago",-33.4774722831,-70.6608424049
+331,715,129.22,SouthAmerica,CHL,Chile,Valparaíso,Valparaíso,-33.0264730699,-71.5068213734
+332,718,382.40899999999999,SouthAmerica,COL,Colombia,Cundinamarca,"Cota, Funza, La Calera, Mosquera, Santafé de Bogotá, Soacha",4.63882163076,-74.1179080651
+333,719,123.145,SouthAmerica,COL,Colombia,Atlántico,"Barranquilla, Galapa, Malambo, Puerto Colombia, Soledad",10.9605336022,-74.8050783156
+335,721,158.72200000000001,SouthAmerica,COL,Colombia,Antioquia,"Bello, Copacabana, Envigado, Itagüí, La Estrella, Medellín, Sabaneta",6.24417304379,-75.5811722018
+336,723,118.89700000000001,SouthAmerica,COL,Colombia,Valle del Cauca,"Candelaria, Palmira, Santiago de Cali, Yumbo",3.43844249336,-76.5146138
+337,724,370.60599999999999,NorthAmerica,CRI,Costa Rica,"Alajuela, Cartago, Heredia, San José","Alajuela, La Unión, Barva, Belén, Flores, Heredia, San Pablo, San Rafael, Santa Bárbara, Santo Domingo, Alajuelita, Aserrí, Curridabat, Desamparados, Escazú, Goicoechea, Montes de Oca, Mora, Moravia, San José, Santa Ana, Tibás, Vásquez de Coronado",9.95619691019,-84.1235237709
+338,727,171.69499999999999,Europe,HRV,Croatia,"Grad Zagreb, Zagrebačka","Stupnik, Velika Gorica, Zagreb, Dugo Selo, Rugvica",45.8022357786,15.9886438136
+339,729,175.095,NorthAmerica,CUB,Cuba,"Ciudad de la Habana, La Habana","Arroyo Naranjo, Boyeros, Centro Habana, Cerro, Diez de Octubre, Guanabacoa, La Habana del Este, La Habana Vieja, La Lisa, Marianao, Playa, Plaza de la Revolución, Regla, San Miguel del Padrón, Bauta",23.0925788883,-82.3802123067
+340,731,122.357,Asia,CYP,Cyprus,"Nicosia, Girne, Nicosia",Unknown,35.1514038406,33.3505371402
+341,732,273.81799999999998,Europe,CZE,Czech Republic,"Prague, Středočeský","Praha 10, Praha 11, Praha 12, Praha 13, Praha 14, Praha 15, Praha 16, Praha 17, Praha 18, Praha 19, Praha 1, Praha 20, Praha 22, Praha 2, Praha 3, Praha 4, Praha 5, Praha 6, Praha 7, Praha 8, Praha 9, Praha - východ, Praha - západ",50.0719350929,14.4372689462
+342,735,202.67099999999999,Africa,COD,Democratic Republic of the Congo,Katanga,Lubumbashi,-11.6569934074,27.4860429538
+343,736,326.95499999999998,Africa,COD,Democratic Republic of the Congo,"Kinshasa City, Brazzaville, Pool","Kinshasa, Brazzaville, Ngamaba",-4.3866855585,15.3142924034
+344,742,270.053,Europe,DNK,Denmark,"Hovedstaden, Sjælland","Albertslund, Ballerup, Brøndby, Frederiksberg, Furesø, Gentofte, Gladsaxe, Glostrup, Høje Taastrup, Herlev, Hvidovre, Ishøj, København, Lyngby-Taarbæk, Rødovre, Rudersdal, Vallensbæk, Greve, Solrød",55.6836146775,12.4456225271
+345,743,261.10899999999998,NorthAmerica,DOM,Dominican Republic,"Distrito Nacional, San Cristóbal, Santo Domingo","Distrito Nacional, Bajos de Haina, Nigua, San Cristóbal, Los Alcarrizos, Pedro Brand, Santo Domingo Este, Santo Domingo Norte, Santo Domingo Oeste",18.4942566842,-69.9190748122
+346,745,307.15699999999998,SouthAmerica,ECU,Ecuador,Pichincha,"Mejía, Quito, Rumiñahui",-0.177624009136,-78.4813275384
+347,749,169.93299999999999,SouthAmerica,ECU,Ecuador,Guayas,"Daule, Guayaquil",-2.15419536282,-79.9202083046
+348,752,243.346,Africa,EGY,Egypt,"Al Buhayrah, Al Iskandariyah","Kafr ad-Dawwar, Ad-Dukhaylah, Al-'Amriyah, Al-'Atarin, Al-Jumruk, Al-Laban, Al-Manshiyah, Al-Muntazah, Ar-Raml 1, Ar-Raml 2, Bab Sharqi, Karmuz, Muharam Bik, Port al-Basal, Port Alexandria Police Department, Sidi Jabir",31.1373531215,29.8822275882
+349,754,1487.32,Africa,EGY,Egypt,"Al Jizah, Al Minufiyah, Al Qahirah, Al Qahirah, Al Qalyubiyah, Ash Sharqiyah","Ad-Duqi, Al-'Ajuzah, Al-'Ayyat, Al-'Umraniyah, Al-Ahram, Al-Badrashayn, Al-Hawamidiyah, Al-Warraq, As-Saff, Bulaq al-Dakrur, Giza, Imbabah, Kirdasah, Sheikh Zayed, Sixth of October 1 City, Sixth of October 2 City, Unorganized in Al Jizah, Ashmun, 'Abdin, 'Ain Schams, 15 Mayu, Ad-Darb al-Ahmar, Al-Azbakiyah, Al-Basatin, Al-Jamaliyah, Al-Khalifa, Al-Ma'adi, Al-Marj, Al-Matariyah, Al-Muski, Al-Waili, An-Nuzhah, Ancient Cairo, As-Sajil, As-Salam, As-Sayidah Zaynab, Ash-Sharabiyah, Ash-Shruq, At-Tebin, Az-Zahir, Az-Zaytun, Bab ash-Sha'riyah, Bulaq, Hada'iq al-Qubbah, Heliopolis, Helwan, Monshat Nasr, Nasr City 1, Nasr City 2, New Cairo 1, New Cairo 2, New Cairo 3, Qasr an-Nil, Rud al-Faraj, Shubra, Turah, Unorganized in Al Qahirah, Zamalik, Zawiyya Al-Hamra, Al-'Ubur, Al-Khankah, Al-Khusus, Al-Qanatir al-Khayriyah, Qalyub, Shibin al-Qanatir, Shubra al-Khaymah 1, Shubra al-Khaymah 2, Unorganized in Al Qalyubiyah, Mashtul as-Suq, Unorganized in Ash Sharqiyah",30.0286020363,31.2525853274
+350,759,106.79,Africa,EGY,Egypt,As Suways,"'Ataqah, Al-Arb'in, Al-Janayin, Faisal, Suez",30.0213623402,32.5235407578
+351,760,128.75899999999999,NorthAmerica,SLV,El Salvador,"La Libertad, San Salvador","Antiguo Cuscatlán, Nueva San Salvador, Apopa, Ayutuxtepeque, Cuscatancingo, Delgado, Ilopango, Mejicanos, San Marcos, San Martín, San Salvador, Soyapango, Tonacatepeque",13.7019197145,-89.1882451053
+352,763,202.36699999999999,Africa,ETH,Ethiopia,"Addis Abeba, Oromia","Addis Abeba, Addis Abeba, Debub Mirab Shewa, Mirab Shewa",9.00177285665,38.7555490026
+353,764,296.48,Europe,FIN,Finland,Southern Finland,Uusimaa,60.2415598308,24.9124551257
+354,765,300.20100000000002,Europe,FRA,France,Nord-Pas-de-Calais,"Nord, Pas-de-Calais",50.4347555856,2.92907716671
+355,767,295.62,Europe,FRA,France,Languedoc-Roussillon,"Aude, Pyrénées-Orientales",42.7130050357,2.91833855314
+356,768,256.66699999999997,Europe,BEL,Belgium,"Vlaanderen, Wallonie, Nord-Pas-de-Calais","West-Vlaanderen, Hainaut, Nord",50.6551359782,3.1008623427
+357,770,102.79,Europe,FRA,France,Auvergne,Puy-de-Dôme,45.7796183461,3.12615996017
+358,774,242.613,Europe,FRA,France,Languedoc-Roussillon,Hérault,43.6157402474,3.88669324897
+359,778,114.926,Europe,FRA,France,"Auvergne, Rhône-Alpes","Haute-Loire, Loire",45.4692342319,4.33503237954
+360,779,104.464,Europe,FRA,France,Languedoc-Roussillon,Gard,43.7987172655,4.3177562865
+361,780,478.49400000000003,Europe,FRA,France,Rhône-Alpes,"Ain, Isère, Rhône",45.7391886343,4.86885466955
+362,784,218.02199999999999,Europe,FRA,France,"Languedoc-Roussillon, Provence-Alpes-Côte d'Azur","Gard, Bouches-du-Rhône, Vaucluse",43.9656723361,4.88644378633
+363,785,604.029,Europe,FRA,France,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.4036046345,5.34437280987
+364,786,106.675,Europe,FRA,France,Rhône-Alpes,Isère,45.1873288813,5.73988477479
+365,787,206.69499999999999,Europe,FRA,France,Provence-Alpes-Côte d'Azur,Var,43.1251979619,5.97197988872
+366,789,112.096,Europe,FRA,France,Lorraine,"Meurthe-et-Moselle, Moselle",49.161289706,6.16120520285
+367,791,110.727,Europe,FRA,France,Provence-Alpes-Côte d'Azur,Var,43.3840736903,6.69597118097
+368,793,333.40800000000002,Europe,FRA,France,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,43.6533527483,7.09159670958
+369,795,112.53,Europe,FRA,France,"Alsace, Baden-Württemberg","Bas-Rhin, Ortenaukreis",48.578252843,7.73147582934
+370,796,121.224,Europe,FRA,France,Haute-Normandie,Seine-Maritime,49.4220257299,1.07671480562
+371,798,398.70100000000002,Europe,FRA,France,Midi-Pyrénées,Haute-Garonne,43.6010323671,1.40504505315
+372,801,142.65799999999999,Europe,FRA,France,Centre,Loiret,47.8979924061,1.90935050665
+373,803,1868.8,Europe,FRA,France,Île-de-France,"Essonne, Hauts-de-Seine, Paris, Seine-et-Marne, Seine-Saint-Denis, Val-d'Oise, Val-de-Marne, Yvelines",48.8360864909,2.35430981001
+374,809,339.16,Europe,FRA,France,Aquitaine,Gironde,44.8431947091,-0.595426255923
+375,811,225.672,Europe,FRA,France,Pays de la Loire,Loire-Atlantique,47.2202656413,-1.55066548989
+376,813,112.018,Africa,GAB,Gabon,Estuaire,Komo-Mondah,0.410554665816,9.46249982777
+377,815,132.09399999999999,Asia,GEO,Georgia,"Kvemo Kartli, Mtskheta-Mtianeti, Tbilisi","Gardabani, Mtskheta, Tbilisi",41.7372600321,44.8069247183
+378,817,138.47200000000001,Europe,FRA,France,"Lorraine, Saarland","Moselle, Merzig-Wadern, Neunkirchen, Regionalverband Saarbrücken, Saarlouis, Saarpfalz-Kreis",49.2936916899,6.95387607057
+379,818,167.84100000000001,Europe,DEU,Germany,Nordrhein-Westfalen,"Düsseldorf, Mettmann, Rhein-Kreis Neuss",51.2269457566,6.77159586679
+380,819,233.25299999999999,Europe,DEU,Germany,Nordrhein-Westfalen,"Köln, Leverkusen, Mettmann, Rhein-Erft-Kreis, Rheinisch-Bergischer Kreis",50.9769020791,6.95109096641
+381,820,181.24199999999999,Europe,DEU,Germany,Nordrhein-Westfalen,"Bonn, Köln, Rhein-Erft-Kreis, Rhein-Sieg-Kreis",50.7894064762,7.06920560334
+382,821,815.697,Europe,DEU,Germany,Nordrhein-Westfalen,"Bochum, Bottrop, Düsseldorf, Duisburg, Ennepe-Ruhr-Kreis, Essen, Gelsenkirchen, Herne, Krefeld, Mülheim an der Ruhr, Oberhausen, Recklinghausen, Viersen, Wesel",51.4794459271,6.9331531242
+383,822,102.256,Europe,DEU,Germany,Nordrhein-Westfalen,"Düsseldorf, Ennepe-Ruhr-Kreis, Mettmann, Solingen, Wuppertal",51.2257005251,7.11497404103
+384,825,176.43100000000001,Europe,DEU,Germany,Nordrhein-Westfalen,"Bochum, Dortmund, Recklinghausen, Unna",51.5247611685,7.45367271387
+385,828,250.18700000000001,Europe,DEU,Germany,"Baden-Württemberg, Hessen, Rheinland-Pfalz","Mannheim, Rhein-Neckar-Kreis, Bergstraße, Bad Dürkheim, Frankenthal (Pfalz), Ludwigshafen am Rhein, Rhein-Pfalz-Kreis",49.474015577,8.46579456903
+386,830,370.66899999999998,Europe,DEU,Germany,"Hessen, Rheinland-Pfalz","Frankfurt am Main, Groß-Gerau, Hochtaunuskreis, Main-Kinzig-Kreis, Main-Taunus-Kreis, Offenbach am Main, Offenbach, Wiesbaden, Mainz-Bingen, Mainz",50.0747725237,8.50596847716
+387,833,134.43700000000001,Europe,DEU,Germany,"Bremen, Niedersachsen","Bremen, Diepholz, Osterholz, Verden",53.0836397739,8.82166269258
+388,834,235.59100000000001,Europe,DEU,Germany,Baden-Württemberg,"Esslingen, Ludwigsburg, Rems-Murr-Kreis, Stuttgart",48.7999282745,9.20783675662
+389,836,191.19399999999999,Europe,DEU,Germany,Niedersachsen,Region Hannover,52.3842063297,9.74734207488
+390,837,440.68799999999999,Europe,DEU,Germany,"Hamburg, Niedersachsen, Schleswig-Holstein","Hamburg, Harburg, Pinneberg, Segeberg, Stormarn",53.5729246938,9.99830443247
+391,841,165.62700000000001,Europe,DEU,Germany,Bayern,"Erlangen-Höchstadt, Erlangen, Fürth, Fürth, Nürnberger Land, Nürnberg",49.4550864155,11.0431655851
+392,843,276.21899999999999,Europe,DEU,Germany,Bayern,"Dachau, München, München, Starnberg",48.1420156898,11.5551081785
+393,848,134.333,Europe,DEU,Germany,Sachsen,"Leipzig, Leipzig, Nordsachsen",51.3482238168,12.3784868424
+394,850,163.11199999999999,Europe,DEU,Germany,Sachsen,"Dresden, Meißen, Sächsische Schweiz-Osterzgebirge",51.0544991581,13.7410622937
+395,851,648.29399999999998,Europe,DEU,Germany,"Berlin, Brandenburg","Berlin, Barnim, Dahme-Spreewald, Havelland, Märkisch-Oderland, Oberhavel, Potsdam-Mittelmark, Teltow-Fläming",52.501116047,13.4151756597
+396,852,1075.3,Africa,GHA,Ghana,"Central, Eastern, Greater Accra","Awutu Efutu Senya, Akwapim South, Accra, Dangbe East, Ga East, Ga West, Tema",5.64586429407,-0.187355250394
+397,853,398.02699999999999,Africa,GHA,Ghana,Ashanti,"Afigya Sekyere, Atwima, Bosomtwe-Kwanwoma, Ejisu-Juabeng, Kumasi, Kwabre",6.69888208338,-1.61502568656
+398,856,116.93600000000001,Europe,GRC,Greece,Macedonia and Thrace,Central Macedonia,40.6514489821,22.9199381376
+399,857,553.97299999999996,Europe,GRC,Greece,Attica,Attica,38.0046217861,23.7184003798
+400,859,261.11500000000001,NorthAmerica,GTM,Guatemala,"Guatemala, Sacatepéquez","Amatitlán, Chinautla, Fraijanes, Mixco, Petapa, San Juan Sacatepéquez, San Pedro Sacatepéquez, Santa Catarina Pinula, Villa Canales, Villa Nueva, ZONA 10, ZONA 11, ZONA 12, ZONA 13, ZONA 14, ZONA 15, ZONA 16, ZONA 17, ZONA 18, ZONA 19, ZONA 1, ZONA 22, ZONA 24, ZONA 25, ZONA 2, ZONA 3, ZONA 4, ZONA 5, ZONA 6, ZONA 7, ZONA 8, ZONA 9, San Lucas Sacatepéquez",14.599047169,-90.5401142197
+401,861,172.89599999999999,Africa,GIN,Guinea,"Conakry, Kindia","Conakry, Coyah",9.6493135671,-13.5689954816
+402,862,152.36000000000001,NorthAmerica,HTI,Haiti,Ouest,"Croix-des-Bouquets, Port-au-Prince",18.5598076505,-72.2976769966
+403,865,475.4,Europe,HUN,Hungary,"Budapest, Pest","Budapesti, Érd, Dunakeszi, Gödöllő, Gyál, Monor, Pilisvörösvár, Ráckeve, Szentendre",47.4810097072,19.099794412
+404,868,271.745,Asia,IND,India,Gujarat,"Ahmadabad, Gandhinagar",23.0293146857,72.5915700138
+405,869,138.51900000000001,Asia,IND,India,Gujarat,Bharuch,21.7326143758,72.6349776586
+406,871,174.24299999999999,Asia,IND,India,Gujarat,Surat,21.1775086721,72.8377680563
+407,872,502.06299999999999,Asia,IND,India,Maharashtra,"Mumbai City, Mumbai Suburban, Palghar, Raigarh, Thane",19.1163200669,72.9238006646
+408,873,145.65100000000001,Asia,IND,India,Rajasthan,Jodhpur,26.2801707212,73.0201006612
+409,876,127.32299999999999,Asia,IND,India,Gujarat,Vadodara,22.3005857344,73.1899031342
+410,879,663.41200000000003,Asia,IND,India,Maharashtra,Pune,18.577584196,73.8556795666
+411,890,454.52600000000001,Asia,IND,India,Rajasthan,Jaipur,26.8802001754,75.8062029811
+412,891,101.19,Asia,IND,India,Rajasthan,"Bundi, Kota",25.1699780227,75.8560228297
+413,892,201.089,Asia,IND,India,Punjab,Ludhiana,30.8933824324,75.8664049429
+414,893,168.649,Asia,IND,India,Madhya Pradesh,Indore,22.7227653736,75.8702294887
+415,895,119.68600000000001,Asia,IND,India,Kerala,Ernakulam,10.0208348466,76.3180912661
+416,898,101.815,Asia,IND,India,Haryana,Rohtak,28.8827877393,76.6224997646
+417,899,114.074,Asia,IND,India,Karnataka,"Mandya, Mysore",12.3179770218,76.6338979134
+418,900,332.61399999999998,Asia,IND,India,"Chandigarh, Haryana, Punjab","Chandigarh, Panchkula, Sahibzada Ajit Singh Nagar",30.6945346231,76.7743346179
+419,906,2618.0300000000002,Asia,IND,India,"Haryana, NCT of Delhi, Uttar Pradesh","Faridabad, Gurgaon, Jhajjar, Mewat, Palwal, Sonipat, West, Baghpat, Bulandshahr, Gautam Buddha Nagar, Ghaziabad, Hapur",28.595677336,77.2348320178
+420,908,358.08800000000002,Asia,IND,India,Tamil Nadu,"Coimbatore, Tiruppur",11.0213147686,77.0034675769
+421,909,177.25200000000001,Asia,IND,India,Tamil Nadu,"Erode, Tiruppur",11.103640043,77.3310432615
+422,910,132.684,Asia,IND,India,Madhya Pradesh,Bhopal,23.2334177951,77.4364578231
+423,911,1001.5,Asia,IND,India,"Karnataka, Tamil Nadu","Bangalore Rural, Bangalore, Ramanagara, Krishnagiri",12.9555052811,77.6251715922
+424,912,132.57599999999999,Asia,IND,India,Uttar Pradesh,Mathura,27.4975607138,77.6729495747
+425,914,138.82400000000001,Asia,IND,India,Uttar Pradesh,Meerut,28.981642714,77.6946472746
+426,915,222.114,Asia,IND,India,Uttar Pradesh,"Agra, Firozabad, Mathura",27.185457302,77.9989739405
+427,916,108.363,Asia,IND,India,Uttar Pradesh,Aligarh,27.8972703729,78.0805362435
+428,917,109.398,Asia,IND,India,Tamil Nadu,Salem,11.6610844896,78.1413582468
+429,920,141.48500000000001,Asia,IND,India,Madhya Pradesh,Gwalior,26.2335255236,78.216149235
+430,921,710.44899999999996,Asia,IND,India,Telangana,"Hyderabad, Medak, Ranga Reddy",17.4299196972,78.4604268907
+431,924,169.00299999999999,Asia,IND,India,Maharashtra,Nagpur,21.1429115853,79.087887916
+432,926,100.935,Asia,IND,India,Tamil Nadu,Cuddalore,11.5595521675,79.4818682639
+433,928,287.99799999999999,Asia,IND,India,Uttar Pradesh,"Kanpur Dehat, Kanpur Nagar, Unnao",26.4403227042,80.2910913248
+434,929,712.66399999999999,Asia,IND,India,Tamil Nadu,"Chennai, Kancheepuram, Thiruvallur",13.0422661049,80.1845167217
+435,932,450.68700000000001,Asia,IND,India,Uttar Pradesh,"Barabanki, Lucknow",26.8454104368,80.946171687
+436,934,111.48,Asia,IND,India,Chhattisgarh,Raipur,21.2674698685,81.6335889919
+437,935,133.39599999999999,Asia,IND,India,Uttar Pradesh,"Allahabad, Kaushambi",25.4283830958,81.8323610033
+438,941,549.654,Asia,IND,India,West Bengal,"Haora, Hugli, Kolkata, Nadia, North 24 Parganas, South 24 Parganas",22.6324183766,88.3630705403
+439,942,451.46800000000002,Asia,IDN,Indonesia,Sumatera Utara,"Binjai, Deli Serdang, Langkat, Medan",3.59722466952,98.6737537464
+440,944,319.95299999999997,Asia,IDN,Indonesia,Riau,"Kampar, Pekan Baru",0.491907762712,101.431491915
+441,945,114.916,Asia,IDN,Indonesia,Jambi,"Batang Hari, Jambi, Muaro Jambi",-1.62529418785,103.605046983
+442,947,218.55099999999999,Asia,IDN,Indonesia,Sumatera Selatan,"Banyuasin, Ogan Ilir, Palembang",-2.95761771431,104.741089442
+443,949,2475.2199999999998,Asia,IDN,Indonesia,"Banten, Jakarta Raya, Jawa Barat","Kota Tangerang, Tangerang, Jakarta Barat, Jakarta Pusat, Jakarta Selatan, Jakarta Timur, Jakarta Utara, Bekasi, Bogor, Depok, Karawang, Kota Bekasi, Kota Bogor, Purwakarta",-6.28774776961,106.872782844
+444,950,341.76100000000002,Asia,IDN,Indonesia,Jawa Barat,"Bandung, Cimahi, Kota Bandung, Sumedang",-6.93078426234,107.611839964
+445,952,131.005,Asia,IDN,Indonesia,Yogyakarta,"Bantul, Sleman, Yogyakarta",-7.78783163706,110.380668703
+446,953,177.24299999999999,Asia,IDN,Indonesia,Jawa Tengah,"Demak, Kendal, Kota Semarang, Semarang",-7.01520052963,110.424902848
+447,955,115.746,Asia,IDN,Indonesia,Jawa Timur,"Batu, Malang, Malang",-7.9556026657,112.636510388
+448,956,716.15200000000004,Asia,IDN,Indonesia,Jawa Timur,"Gresik, Mojokerto, Mojokerto, Pasuruan, Sidoarjo, Surabaya",-7.38137716655,112.681013408
+449,958,165.38900000000001,Asia,IDN,Indonesia,Bali,"Badung, Denpasar, Gianyar",-8.6877989003,115.205452799
+450,962,101.81399999999999,Asia,IDN,Indonesia,Kalimantan Timur,"Kutai Kartanegara, Samarinda",-0.492960018009,117.146462602
+451,964,119.413,Asia,IDN,Indonesia,Sulawesi Selatan,"Gowa, Makassar, Maros",-5.15106582454,119.46539825
+452,969,102.96599999999999,Asia,IRN,Iran,"Khuzestan, Al-Basrah","Abadan, Khorramshahr, Abu al Khasib",30.3864392454,48.2362294111
+453,971,437.41,Asia,IRN,Iran,Khuzestan,Ahvaz,31.3295881481,48.6941927806
+454,974,810.62099999999998,Asia,IRN,Iran,"Alborz, Tehran","Karaj, Shahriyar, Eslamshahr, Rey, Shemiranat, Theran",35.7195112048,51.2815345947
+455,976,194.72200000000001,Asia,IRN,Iran,Esfahan,"Borkhar and Meymeh, Falavarjan, Tiran and Karvan",32.6691133553,51.6509335103
+456,977,190.959,Asia,IRN,Iran,Fars,Shiraz,29.6015168009,52.5400573681
+457,980,179.29,Asia,IRN,Iran,Razavi Khorasan,Mashhad,36.3151956837,59.5772444298
+458,981,144.029,Asia,IRQ,Iraq,Dihok,"Dahuk, Simele",36.8582787225,42.965126439
+459,982,122.39,Asia,IRQ,Iraq,Ninawa,"Al Hamdaniyah, Mosul, Tilkef",36.3529381913,43.152012584
+460,983,204.517,Asia,IRQ,Iraq,Arbil,Arbil,36.1851731148,44.0444223822
+461,985,162.761,Asia,IRQ,Iraq,At-Ta'mim,"Daquq, Kirkuk",35.446076304,44.377705154
+462,987,525.57399999999996,Asia,IRQ,Iraq,"Al-Anbar, Babil, Baghdad, Diyala","Kadhimiya, Al-Mada'in, Adhamiya, Ba`qubah, Balad Ruz",33.3285994412,44.4017523499
+463,988,111.33,Asia,IRQ,Iraq,As-Sulaymaniyah,"Sharbazher, Sulaymaniya",35.5612633773,45.4132564897
+464,989,102.819,Asia,IRQ,Iraq,Wasit,Al Kut,32.5228889199,45.8012073498
+465,990,126.14,Asia,IRQ,Iraq,Wasit,"Al Kut, Al Noamania",32.4978253628,45.6681213054
+466,991,151.33699999999999,Asia,IRQ,Iraq,Maysan,"Al Amarah, Al Miamona",31.8241056094,47.124849959
+467,994,537.56600000000003,Asia,IRQ,Iraq,Al-Basrah,"Abu al Khasib, Al Madiana, Al Qurnah, Al Zubair, Basrah, Shatt Al Arab",30.502388123,47.74091196
+468,996,317.45699999999999,Europe,IRL,Ireland,"Dublin, Meath",Unknown,53.3418964245,-6.28832943157
+469,997,161.75800000000001,Asia,ISR,Israel,HaDarom,Unknown,31.273272798,34.8061394299
+470,998,335.09,Asia,ISR,Israel,"HaMerkaz, Tel Aviv",Unknown,32.039545517,34.8317366955
+471,1000,101.84099999999999,Asia,ISR,Israel,"Haifa, HaZafon",Unknown,32.8199582042,35.035445652
+472,1001,295.57100000000003,Europe,ITA,Italy,Piemonte,Torino,45.0728659139,7.64293534057
+473,1003,170.345,Europe,ITA,Italy,Sardegna,Cagliari,39.2587059925,9.14623482017
+474,1004,1145.1600000000001,Europe,ITA,Italy,Lombardia,"Como, Lecco, Milano, Monza and Brianza, Varese",45.5726599948,9.12452600673
+475,1005,279.02699999999999,Europe,ITA,Italy,Lombardia,"Bergamo, Brescia, Milano",45.6675875515,9.68799693534
+476,1007,147.215,Europe,ITA,Italy,Lombardia,Brescia,45.540014454,10.1955170136
+477,1008,223.70500000000001,Europe,ITA,Italy,Toscana,"Florence, Pistoia, Prato",43.8387770403,11.1181678693
+478,1010,126.28100000000001,Europe,ITA,Italy,Emilia-Romagna,Bologna,44.5144522795,11.338684509
+479,1014,486.02499999999998,Europe,ITA,Italy,Veneto,"Padua, Treviso, Venezia",45.4497087074,12.0242865027
+480,1016,756.11699999999996,Europe,ITA,Italy,Lazio,"Latina, Roma",41.8545791054,12.4964963062
+481,1017,157.01400000000001,Europe,ITA,Italy,Lazio,"Latina, Roma",41.5557893482,12.6045945001
+482,1018,268.54599999999999,Europe,ITA,Italy,Sicily,Trapani,37.8934499962,12.5428856313
+483,1021,192.7,Europe,ITA,Italy,Sicily,Palermo,38.1229293922,13.3261348337
+484,1024,121.105,Europe,ITA,Italy,Sicily,Agrigento,37.3162249597,13.6057592666
+485,1026,1634.68,Europe,ITA,Italy,Campania,"Avellino, Benevento, Caserta, Napoli, Salerno",40.8595380026,14.4304904894
+486,1028,156.80600000000001,Europe,ITA,Italy,Abruzzo,"Chieti, Pescara, Teramo",42.4315524608,14.1535697355
+487,1030,124.998,Europe,ITA,Italy,Sicily,Ragusa,36.9508334512,14.5194151344
+488,1032,196.60900000000001,Europe,ITA,Italy,Sicily,Catania,37.5511733224,15.0505480165
+489,1034,114.604,Europe,ITA,Italy,Apulia,Bari,41.1025630031,16.8481142548
+490,1035,121.88800000000001,NorthAmerica,JAM,Jamaica,"Kingston, Saint Andrew, Saint Catherine",Unknown,18.0043912286,-76.8161352284
+491,1038,280.245,Asia,JPN,Japan,Fukuoka,"Ōnojō, Chikushino, Dazaifu, Fukuoka, Fukutsu, Hisayama, Kasuga, Kasuya, Koga, Nakagawa, Sasaguri, Shime, Shingū, Sue, Umi",33.5874472703,130.438352153
+492,1040,120.566,Asia,JPN,Japan,Kumamoto,"Ōzu, Kōshi, Kumamoto, Mashiki, Tomiai",32.8068155294,130.735359242
+493,1041,224.202,Asia,JPN,Japan,Fukuoka,"Ashiya, Kanda, Kitakyūshū, Kurate, Mizumaki, Nōgata, Nakama, Yukuhashi",33.8525678454,130.822095432
+494,1043,135.16200000000001,Asia,JPN,Japan,Hiroshima,"Fuchū, Hatsukaichi, Hiroshima, Kaita, Saka",34.3937873865,132.441734509
+495,1044,100.38200000000001,Asia,JPN,Japan,Ehime,"Iyo, Masaki, Matsuyama, Tōon, Tobe",33.8229936597,132.755346388
+496,1048,105.61199999999999,Asia,JPN,Japan,Okayama,"Kurashiki, Okayama",34.6450875987,133.929512577
+497,1050,300.05,Asia,JPN,Japan,Hyōgo,"Akashi, Harima, Himeji, Inami, Kakogawa, Kobe, Taishi, Takasago, Tatsuno",34.7533274137,134.816612347
+498,1052,1433.17,Asia,JPN,Japan,"Hyōgo, Kyoto, Osaka, Shiga","Amagasaki, Ashiya, Itami, Kawanishi, Kobe, Nishinomiya, Takarazuka, Ōyamazaki, Jōyō, Kumiyama, Kyōtanabe, Kyoto, Mukō, Nagaokakyō, Ujitawara, Yawata, Ōsakasayama, Daitō, Fujiidera, Habikino, Hannan, Higashiōsaka, Hirakata, Ibaraki, Ikeda, Izumiōtsu, Izumisano, Izumi, Kadoma, Kaizuka, Kanan, Kashiwara, Katano, Kawachinagano, Kishiwada, Kumatori, Matsubara, Minoo, Moriguchi, Neyagawa, Osaka, Sakai, Sennan, Settsu, Shijōnawate, Shimamoto, Suita, Tadaoka, Taishi, Tajiri, Takaishi, Takatsuki, Tondabayashi, Toyonaka, Yao, Ōtsu",34.7103633732,135.536287273
+499,1054,198.67699999999999,Asia,JPN,Japan,"Kyoto, Nara, Osaka","Kizugawa, Seika, Ando, Ōji, Gose, Heguri, Ikaruga, Ikoma, Kōryō, Kanmaki, Kashiba, Kashihara, Katsuragi, Kawai, Kawanishi Town, Miyake, Nara, Sakurai, Sangō, Tawaramoto, Tenri, Yamatokōriyama, Yamatotakada, Kashiwara",34.5936423175,135.767146969
+500,1058,121.241,Asia,JPN,Japan,Mie,"Asahi, Inabe, Kawagoe, Kuwana, Suzuka, Tōin, Yokkaichi",34.9965945802,136.63415705
+501,1059,110.764,Asia,JPN,Japan,Ishikawa,"Hakusan, Kanazawa, Nonoichi, Uchinada",36.5626539594,136.620039017
+502,1060,1774.88,Asia,JPN,Japan,"Aichi, Gifu","Agui, Aisai, Anjō, Ōbu, Ōguchi, Ōharu, Chiryū, Chita, Fusō, Handa, Haruhi, Hekinan, Higashiura, Ichinomiya/Owari-ichinomiya, Inazawa, Inuyama, Isshiki, Iwakura, Jimokuji, Kōnan, Kōta, Kanie, Kariya, Kasugai, Kira, Kisosaki, Kitanagoya, Kiyosu, Komaki, Miwa, Miyoshi, Nagakute, Nagoya, Nishio, Nisshin, Okazaki, Owariasahi, Seto, Shippō, Tōgō, Tōkai, Takahama, Taketoyo, Tobishima, Toyoake, Toyota, Toyoyama, Tsushima, Yatomi, Anpachi, Ōgaki, Gifu, Ginan, Godo, Hashima, Ikeda Town, Kakamigahara, Kasamatsu, Kitagata, Mizuho, Motosu, Unknown1",35.1454198704,136.919492946
+503,1063,112.58199999999999,Asia,JPN,Japan,Aichi,"Kozakai, Mito, Toyohashi, Toyokawa",34.7767869782,137.381928071
+504,1064,226.22800000000001,Asia,JPN,Japan,Shizuoka,"Hamamatsu, Iwata",34.7275936714,137.750738983
+505,1066,124.575,Asia,JPN,Japan,Shizuoka,"Ōigawa, Fujieda, Makinohara, Okabe, Shimada, Yaizu, Yoshida",34.8276547124,138.266341766
+506,1068,105.65300000000001,Asia,JPN,Japan,Shizuoka,Shizuoka,34.9887453195,138.42551696
+507,1069,113.37,Asia,JPN,Japan,Yamanashi,"Chūō, Fuefuki, Ichikawamisato, Kōfu, Kai, Minami-Alps, Shōwa",35.6324339529,138.537447714
+508,1074,302.029,Asia,JPN,Japan,"Gunma, Saitama","Annaka, Ōta, Fujioka, Isesaki, Maebashi, Shintō, Takasaki, Tamamura, Yoshioka, Honjō",36.3328572904,139.107026094
+509,1075,163.60900000000001,Asia,JPN,Japan,Niigata,Niigata,37.8804331772,139.046398304
+510,1077,3539.28,Asia,JPN,Japan,"Chiba, Ibaraki, Kanagawa, Saitama, Tokyo","Abiko, Chiba, Funabashi, Ichihara, Ichikawa, Kamagaya, Kashiwa, Matsudo, Nagareyama, Narashino, Noda, Sakura, Shiroi, Sodegaura, Yachiyo, Yotsukaido, Goka, Aikawa, Ōiso, Atsugi, Ayase, Chigasaki, Ebina, Fujisawa, Hadano, Hiratsuka, Isehara, Kamakura, Kawasaki, Sagamihara, Samukawa, Yamato, Yokohama, Yokosuka, Zama, Zushi, Ageo, Asaka, Fujimino, Fujimi, Fukaya, Gyōda, Hannō, Hasuda, Hatogaya, Ina, Iruma, Kōnosu, Kasukabe, Kawagoe, Kawaguchi, Kazo, Kitamoto, Koshigaya, Kuki, Kumagaya, Kurihashi, Matsubushi, Misato City, Miyashiro, Miyoshi, Niiza, Okegawa, Sōka, Saitama, Sakado, Satte, Sayama, Shōbu, Shiki, Shiraoka, Sugito, Toda, Tokorozawa, Tsurugashima, Wakō, Warabi, Washimiya, Yashio, Yoshikawa, Adachi, Akiruno, Akishima, Ōme, Ōta, Arakawa, Bunkyō, Chūō, Chōfu, Chiyoda, Edogawa, Fuchū, Fussa, Hachiōji, Hamura, Higashikurume, Higashimurayama, Higashiyamato, Hinode, Hino, Inagi, Itabashi, Kōtō, Katsushika, Kita, Kiyose, Kodaira, Koganei, Kokubunji, Komae, Kunitachi, Machida, Meguro, Minato, Mitaka, Mizuho, Musashimurayama, Musashino, Nakano, Nerima, Nishitōkyō, Setagaya, Shibuya, Shinagawa, Shinjuku, Suginami, Sumida, Tachikawa, Taitō, Tama, Toshima",35.696256431,139.642974216
+511,1090,338.17399999999998,Asia,JPN,Japan,Miyagi,"Iwanuma, Natori, Rifu, Sendai, Shichigahama, Shiogama, Tagajō, Taiwa, Tomiya",38.2509581227,140.915795364
+512,1094,335.59500000000003,Asia,JPN,Japan,Hokkaido,"Ebetsu, Ishikari, Kitahiroshima, Otaru, Sapporo",43.072508308,141.376494534
+513,1100,244.441,Asia,JOR,Jordan,"Aqaba, Al Jawf",Aqaba,29.488613897,35.0468685289
+514,1102,108.196,Asia,JOR,Jordan,Irbid,"Aghwar Shamaliyyeh, Bani Kenanah, Hariema, Irbid, Kora, Mazar Shamali, Tayybeh, Wastiyyeh",32.5428068401,35.8621756413
+515,1104,1009.89,Asia,JOR,Jordan,"Amman, Balqa, Mafraq, Zarqa","Amman, Jizeh, Mowaqqar, Na'oor, Sahab, Um El-Basatien, Wadi Essier, Ardhah, Salt, Bal'ama, Mafraq, Bierain, Zarqa",31.9643426,35.9777567464
+516,1108,113.55500000000001,Asia,KAZ,Kazakhstan,Atyrau,"Atyrau, Makhambetskiy",47.1105747221,51.9079492302
+517,1109,112.364,Asia,KAZ,Kazakhstan,Aqtöbe,Aqtobe,50.2914668986,57.1854661639
+518,1112,188.864,Asia,KAZ,Kazakhstan,South Kazakhstan,"Ordabasynskiy, Sayramskiy, Shymkent, Tolebiyskiy",42.3341885277,69.6067385429
+519,1113,106.464,Asia,KAZ,Kazakhstan,Zhambyl,"Bayzakskiy, Zhambylskiy",42.894413028,71.3750904635
+520,1114,154.42599999999999,Asia,KAZ,Kazakhstan,Aqmola,Tselinogradskiy,51.1582077055,71.4449941074
+521,1116,353.673,Asia,KAZ,Kazakhstan,Pavlodar,Ekibastuz,51.6974191559,75.3942491739
+522,1118,190.93299999999999,Asia,KAZ,Kazakhstan,Pavlodar,Pavlodarskiy,52.2989384515,76.9806890836
+523,1119,376.58600000000001,Asia,KAZ,Kazakhstan,Almaty,"Almaty (Alma-Ata), Iliyskiy, Karasayskiy, Talgarskiy",43.2772336888,76.8977830567
+524,1121,162.32599999999999,Asia,KAZ,Kazakhstan,East Kazakhstan,Semipalatinskiy,50.4002860875,80.2422938435
+525,1122,120.747,Asia,KAZ,Kazakhstan,East Kazakhstan,"Glubokovskiy, Ulanskiy",49.9597562994,82.6350483992
+526,1123,209.209,Africa,KEN,Kenya,"Kiambu, Machakos, Nairobi","Kiambu, Ruiru, Mavoko, Dagoretti North, Dagoretti South, Embakasi Central, Embakasi East, Embakasi North, Embakasi South, Embakasi West, Kamukunji, Kasarani, Kibra, Langata, Makadara, Mathare, Roysambu, Ruaraka, Starehe, Westlands",-1.27881127632,36.8598959353
+527,1124,134.46,Asia,PRK,North Korea,P'yŏngyang,"Jong, Pyongyang",39.0200921962,125.743360829
+528,1125,138.81299999999999,Asia,KOR,South Korea,"Gwangju, Jeollanam-do","Buk, Dong, Gwangsan, Jangseong",35.1641842176,126.857431158
+529,1126,1921.47,Asia,KOR,South Korea,"Gyeonggi-do, Incheon, Seoul","Ansan, Ansoeng, Anyang, Bucheon, Gimpo, Goyang, Gunpo, Guri, Gwacheon, Gwangju, Gwangmyeong, Hanam, Hwaseong, Namyangju, Osan, Paju, Pocheon, Pyeongtaek, Seongnam, Siheung, Suwon, Uijeongbu, Uiwang, Yangju, Yongin, Bupyeong, Dong, Gyeyang, Jung, Namdong, Nam, Seo, Yeonsu, Dobong, Dong-daemun, Dongjak, Eun-pyeong, Gandong, Gangbuk, Gangnam, Gangseo, Geum-cheon, Guro, Gwanak, Gwang-jin, Jongro, Jung, Jungnang, Mapo, Nowon, Seocho, Seodaemun, Seongbuk, Seongdong, Songpa, Yangcheon, Yeongdeungpo, Yongsan",37.4761059204,126.910930892
+530,1130,139.34800000000001,Asia,KOR,South Korea,"Chungcheongbuk-do, Daejeon, Sejong","Cheongwon, Daedeok, Dong, Jung, Seo, Yuseong, Yeongi",36.3570422107,127.39072569
+531,1132,150.166,Asia,KOR,South Korea,"Daegu, Gyeongsangbuk-do","Buk, Dalseo, Dalseong, Dong, Jung, Seo, Suseong, Chilgok, Gyeongsan",35.8653070177,128.581558769
+532,1135,168.83799999999999,Asia,KOR,South Korea,"Busan, Gyeongsangnam-do, Incheon","Buk, Busanjin, Dong, Dongnae, Gangseo, Geumjeong, Haeundae, Nam, Saha, Sasang, Seo, Suyeong, Yeongdo, Yeonje, Gimhae, Yangsan, Jung",35.1570990674,129.057902426
+533,1136,104.29,Asia,KOR,South Korea,Ulsan,"Buk, Jung, Nam, Ulju",35.5142539954,129.340487452
+534,1138,482.97699999999998,Asia,KWT,Kuwait,"Al Ahmadi, Al Farwaniyah, Al Jahrah, Al Kuwayt, Hawalli, Mubarak Al-Kabeer",Unknown,29.251247408,47.9916421743
+535,1140,224.17599999999999,Asia,KGZ,Kyrgyzstan,"Biškek, Chüy","Biškek, Alamüdün, Sokuluk, Ysyk-Ata",42.871327853,74.5877855687
+536,1142,108.898,Europe,LVA,Latvia,Riga,Riga,56.9549049605,24.1230886385
+537,1143,167.39,Asia,LBN,Lebanon,"Beirut, Mount Lebanon","Beirut, Aley, Baabda, Chouf, El Metn, Jubail, Kasrouane",33.9065024583,35.5612018314
+538,1146,184.22200000000001,Africa,LBR,Liberia,"Margibi, Montserrado","Mambah-Kaba, Greater Monrovia, St Paul River",6.30189512876,-10.7090874613
+539,1147,104.741,Africa,LBY,Libya,"An Nuqat al Khams, Az Zawiyah",Unknown,32.7678239129,12.6331485879
+540,1148,410.30700000000002,Africa,LBY,Libya,"Al Jifarah, Az Zawiyah, Tripoli",Unknown,32.8304492925,13.175865846
+541,1150,121.679,Africa,LBY,Libya,Misratah,Unknown,32.366302576,15.0882069301
+542,1151,171.095,Africa,LBY,Libya,Benghazi,Unknown,32.0917045862,20.1050183803
+543,1154,118.226,Europe,MKD,Macedonia,"Šuto Orizari, Aerodrom, Čair, Čučer Sandevo, Aracinovo, Butel, Centar, Gazi Baba, Gjorče Petrov, Ilinden, Karpoš, Kisela Voda, Saraj, Studeničani",Unknown,42.0014548138,21.4474639735
+544,1155,101.49299999999999,Africa,MDG,Madagascar,Antananarivo,Analamanga,-18.9120488607,47.5268677465
+545,1156,118.297,Africa,MWI,Malawi,"Blantyre, Chiradzulu","Blantyre City, TA Kapeni, TA Somba, TA Likoswe",-15.7835269956,35.0391724327
+546,1159,233.36799999999999,Asia,MYS,Malaysia,"Kedah, Perak, Pulau Pinang","Bandar Baharu, Kerian, Seberang Perai Selatan, Seberang Perai Tengah, Seberang Perai Utara",5.31458922913,100.450098541
+547,1160,104.476,Asia,MYS,Malaysia,Kedah,Kuala Muda,5.63769445688,100.511498782
+548,1163,275.911,Asia,MYS,Malaysia,Perak,Kinta,4.59674618785,101.093371823
+549,1164,1806.93,Asia,MYS,Malaysia,"Kuala Lumpur, Negeri Sembilan, Putrajaya, Selangor","Kuala Lumpur, Seremban, Putrajaya, Gombak, Hulu Langat, Hulu Selangor, Klang, Kuala Langat, Kuala Selangor, Petaling, Sepang",3.05884778868,101.627564356
+550,1166,155.94,Asia,MYS,Malaysia,Negeri Sembilan,"Port Dickson, Seremban",2.70359862957,101.937261462
+551,1167,154.613,Asia,MYS,Malaysia,Melaka,"Alor Gajah, Jasin, Melaka Tengah",2.24486785404,102.252402852
+552,1168,108.911,Asia,MYS,Malaysia,Kelantan,"Kota Bharu, Pasir Mas, Tumpat",6.116322371,102.259072156
+553,1172,113.221,Asia,MYS,Malaysia,Pahang,Kuantan,3.80586060247,103.289012618
+554,1173,744.851,Asia,MYS,Malaysia,Johor,"Johor Baharu, Kota Tinggi, Kulaijaya, Pontian",1.52844966266,103.727058679
+555,1174,159.59899999999999,Asia,MYS,Malaysia,Sabah,"Kota Kinabalu, Penampang, Putatan, Tuaran",5.99325748264,116.124065679
+556,1176,216.738,Africa,MLI,Mali,"Bamako, Koulikoro","Bamako, Kati",12.6180245779,-7.97662728289
+557,1177,101.053,Europe,MLT,Malta,Unknown,Unknown,35.8802755377,14.4795113325
+558,1179,122.53700000000001,Europe,MDA,Moldova,"Chişinău, Ialoveni",Unknown,47.0071414323,28.848142406
+559,1180,193.24799999999999,Asia,MNG,Mongolia,Ulaanbaatar,Ulan Bator,47.9161831662,106.867531545
+560,1183,130.553,Africa,MAR,Morocco,Rabat - Salé - Zemmour - Zaer,"Rabat, Salé, Skhirate-Témara",33.9873984524,-6.84867674721
+561,1184,273.97199999999998,Africa,MAR,Morocco,"Chaouia - Ouardigha, Grand Casablanca","Ben Slimane, Casablanca, Mohammedia",33.5921209259,-7.5511086713
+562,1185,119.417,Africa,MAR,Morocco,Marrakech - Tensift - Al Haouz,Marrakech,31.6362726116,-8.02149759741
+563,1188,255.10900000000001,Africa,MOZ,Mozambique,"Maputo City, Maputo","Boane, Maputo, Boane, Marracuene",-25.900685773,32.5454866314
+564,1190,100.387,Asia,NPL,Nepal,Central,"Bagmati, Bagmati, Bagmati",27.7003194305,85.3273807686
+565,1191,921.69200000000001,Europe,NLD,Netherlands,Zuid-Holland,"'s-Gravendeel, 's-Gravenhage, 's-Gravenzande, Alblasserdam, Albrandswaard, Alphen aan den Rijn, Barendrecht, Bergschenhoek, Berkel en Rodenrijs, Bernisse, Bleiswijk, Boskoop, Brielle, Capelle aan den IJssel, De Lier, Delft, Dordrecht, Giessenlanden, Gouda, Hardinxveld-Giessendam, Hendrik-Ido-Ambacht, Krimpen aan den IJssel, Leidschendam-Voorburg, Maasland, Maassluis, Monster, Moordrecht, Naaldwijk, Nederlek, Nieuw-Lekkerland, Nieuwerkerk aan den IJssel, Ouderkerk, Papendrecht, Pijnacker-Nootdorp, Reeuwijk, Ridderkerk, Rijnwoude, Rijswijk, Rotterdam, Rozenburg, Schiedam, Schipluiden, Sliedrecht, Spijkenisse, Vlaardingen, Vlist, Waddinxveen, Wassenaar, Wateringen, Westvoorne, Zevenhuizen-Moerkapelle, Zoetermeer, Zwijndrecht",51.9547870604,4.43333393914
+566,1194,125.283,Europe,NLD,Netherlands,"Noord-Holland, Zuid-Holland","Bennebroek, Bloemendaal, Haarlemmermeer, Heemstede, Alkemade, Hillegom, Jacobswoude, Katwijk, Leiden, Leiderdorp, Leidschendam-Voorburg, Lisse, Noordwijkerhout, Noordwijk, Oegstgeest, Rijnsburg, Rijnwoude, Sassenheim, Valkenburg, Voorhout, Voorschoten, Warmond, Wassenaar, Zoeterwoude",52.2093064747,4.49104064776
+567,1195,448.63299999999998,Europe,NLD,Netherlands,"IJsselmeer, Noord-Holland, Utrecht, Zuid-Holland"," , Aalsmeer, Amstelveen, Amsterdam, Beverwijk, Bloemendaal, Diemen, Graft-De Rijp, Haarlem, Haarlemmerliede c.a., Haarlemmermeer, Heemskerk, Heemstede, Landsmeer, Muiden, Oostzaan, Ouder-Amstel, Uitgeest, Uithoorn, Velsen, Weesp, Wormerland, Zaanstad, Abcoude, De Ronde Venen, Jacobswoude, Liemeer",52.3612123655,4.7894980893
+568,1199,137.203,Europe,NLD,Netherlands,Utrecht,"Breukelen, De Bilt, Houten, IJsselstein, Lopik, Maarssen, Nieuwegein, Utrecht, Vianen, Woerden",52.0714973005,5.09431820374
+569,1200,105.90900000000001,Europe,NLD,Netherlands,Noord-Brabant,"Best, Eindhoven, Geldrop, Nuenen c.a., Oirschot, Son en Breugel, Veldhoven, Waalre",51.4510929892,5.45484951533
+570,1205,788.58900000000006,Africa,NGA,Nigeria,"Lagos, Ogun","Agege, Ajeromi/Ifelodun, Alimosho, Amuwo Odofin, Apapa, Ifako/Ijaye, Ikeja, Ikorodu, Kosofe, LagosIsland, Mainland, Mushin, Ojo, Oshodi/Isolo, Shomolu, Surulere, AdoOdo/Ota, Ifo",6.5938598904,3.28560878815
+571,1206,119.982,Africa,NGA,Nigeria,Ogun,"Abeokuta South, AbeokutaNorth, Obafemi-Owode, Odeda",7.15802755246,3.34649835049
+572,1208,215.423,Africa,NGA,Nigeria,"Lagos, Ogun","Epe, Ikorodu, LagosIsland, Shagamu",6.62791029564,3.52499136929
+573,1209,138.286,Africa,NGA,Nigeria,Lagos,"Epe, Eti-Osa, Ibeju/Lekki",6.45783678137,3.58363006289
+574,1210,365.28500000000003,Africa,NGA,Nigeria,Oyo,"Akinyele, Egbeda, IbadanNorth-East, IbadanNorth-West, IbadanNorth, IbadanSouth-East, IbadanSouth-West, Ido, Lagelu, Oluyole, Ona-Ara",7.38970753065,3.91252781022
+575,1215,219.624,Africa,NGA,Nigeria,Edo,"Egor, Ikpoba-Okha, Oredo Edo, OviaNort, Uhunmwonde",6.33822582082,5.63343485839
+576,1218,224.45400000000001,Africa,NGA,Nigeria,Rivers,"Eleme, Etche, Ikwerre, Obio/Akp, Oyigbo, Port Harcourt",4.83812970089,7.02507551002
+577,1221,155.64599999999999,Africa,NGA,Nigeria,Federal Capital Territory,"AbujaMun, Bwari",9.06184917681,7.45094566589
+578,1222,152.09299999999999,Africa,NGA,Nigeria,Kaduna,"Chikun, Igabi, Kaduna North, Kaduna South",10.5121060094,7.42525616627
+579,1224,187.756,Africa,NGA,Nigeria,Kano,"Dala, Fagge, Gezawa, Gwale, Kano, Kumbotso, Nassaraw, Tarauni, Ungogo, Warawa",11.9900346659,8.52715693479
+580,1227,176.05799999999999,Europe,NOR,Norway,Hordaland,"Bergen, Os",60.3636247812,5.30879517981
+581,1230,195.75800000000001,Europe,NOR,Norway,"Akershus, Oslo","Asker, Bærum, Lørenskog, Nittedal, Rælingen, Sørum, Skedsmo, Oslo",59.9232137158,10.7386048013
+582,1231,539.13099999999997,Asia,PAK,Pakistan,Sind,"Hyderabad, Karachi",24.9031883501,67.0837165154
+583,1233,184.541,Asia,PAK,Pakistan,Punjab,Multan,30.1881557724,71.4771270748
+584,1234,183.98599999999999,Asia,PAK,Pakistan,"F.A.T.A., N.W.F.P.","F.A.T.A., Peshawar",34.0042698411,71.525347842
+585,1236,237.36799999999999,Asia,PAK,Pakistan,Punjab,Faisalabad,31.422600361,73.0813675863
+586,1237,280.86599999999999,Asia,PAK,Pakistan,"F.C.T., Punjab","Islamabad, Rawalpindi",33.5964590921,73.0815524281
+587,1240,699.57299999999998,Asia,PAK,Pakistan,Punjab,Lahore,31.5044664382,74.2806151779
+588,1241,133.00800000000001,Asia,PAK,Pakistan,Punjab,Gujranwala,32.1355080027,74.1872575302
+589,1242,213.947,NorthAmerica,PAN,Panama,"Panamá Oeste, Panamá","Arraiján, Panamá, San Miguelito",9.04974955252,-79.4823856861
+590,1244,167.09299999999999,SouthAmerica,ARG,Argentina,"Formosa, Asunción, Central","Pilcomayo, Asunción, Ñemby, Capiatá, Fernando de la Mora, Lambaré, Limpio, Luque, Mariano Roque Alonso, San Antonio, San Lorenzo, Villa Elisa",-25.3067208326,-57.5741528912
+591,1246,203.95099999999999,SouthAmerica,PER,Peru,Arequipa,Arequipa,-16.3871646255,-71.5470571688
+592,1247,647.82899999999995,SouthAmerica,PER,Peru,"Callao, Lima Province","Callao, Lima",-12.0049990063,-77.0122955378
+593,1249,906.303,Asia,PHL,Philippines,"Bulacan, Cavite, Laguna, Metropolitan Manila, Rizal","Balagtas, Bocaue, Calumpit, Guiguinto, Malolos City, Marilao, Meycauayan City, Obando, Paombong, Plaridel, Pulilan, San Jose del Monte City, Santa Maria, Bacoor, Carmona, Dasmariñas, General Mariano Alvarez, General Trias, Imus, Kawit, Noveleta, Rosario, Tanza, Biñan, Cabuyao, Calamba City, Laguna lake, San Pedro, Santa Rosa City, Kalookan City, Las Piñas, Makati City, Malabon, Mandaluyong, Manila, Marikina, Muntinlupa, Navotas, Parañaque, Pasay City, Pasig City, Pateros, Quezon City, San Juan, Taguig, Valenzuela, Angono, Antipolo City, Binangonan, Cainta, Rodriguez, San Mateo, Taytay",14.5653712265,121.030846281
+594,1254,148.703,Europe,POL,Poland,Greater Poland,"Poznań City, Poznań",52.4032797805,16.8930911947
+595,1255,102.855,Europe,POL,Poland,Lower Silesian,"Środa Śląska, Trzebnica, Wrocław",51.1023796886,17.0166357537
+596,1257,275.18599999999998,Europe,POL,Poland,Pomeranian,"Gdańsk City, Gdańsk, Gdynia, Kartuzy, Puck, Sopot, Wejherowo",54.4108397346,18.5460663044
+597,1258,462.02800000000002,Europe,POL,Poland,Silesian,"Świętochłowice, Będzin, Bytom, Chorzów, Dąbrowa Górnicza, Gliwice City, Gliwice, Katowice City, Piekary Śląskie, Ruda Śląska, Siemianowice Śląskie, Sosnowiec, Tarnowskie, Zabrze, Zawiercie",50.296496482,18.9580967521
+598,1260,137.78,Europe,POL,Poland,Łódź,"Łódź East, Łódź, Pabianice, Zgierz",51.7478311828,19.4525411764
+599,1261,166.869,Europe,POL,Poland,Lesser Poland,"Kraków City, Kraków, Wieliczka",50.0520320999,19.9822386077
+600,1262,405.98700000000002,Europe,POL,Poland,Masovian,"Legionowo, Piaseczno, Pruszków, Warsaw West, Warsaw, Wołomin",52.2231913828,20.9870364611
+601,1263,218.55799999999999,Europe,POL,Poland,Lublin,"Świdnik, Lublin City, Lublin",51.2396669316,22.605046422
+602,1264,132.48400000000001,Europe,POL,Poland,Podlachian,"Białystok City, Białystok",53.1348621542,23.1516510341
+603,1265,621.81899999999996,Europe,PRT,Portugal,"Aveiro, Porto","Espinho, Ovar, Santa Maria da Feira, Gondomar, Lousada, Maia, Matosinhos, Paços de Ferreira, Paredes, Penafiel, Porto, Santo Tirso, Trofa, Valongo, Vila do Conde, Vila Nova de Gaia",41.1325957933,-8.55814743406
+604,1266,171.17400000000001,Europe,PRT,Portugal,"Braga, Porto","Braga, Vila Nova de Famalicão, Vizela, Santo Tirso, Trofa",41.3957082196,-8.40757728812
+605,1272,229.51300000000001,Europe,PRT,Portugal,Setúbal,"Alcochete, Almada, Barreiro, Moita, Montijo, Palmela, Seixal, Sesimbra, Setúbal",38.62653177,-9.06879381787
+606,1273,447.46,Europe,PRT,Portugal,Lisboa,"Alenquer, Amadora, Azambuja, Cascais, Lisboa, Loures, Odivelas, Oeiras, Sintra, Vila Franca de Xira",38.7819157783,-9.22358288911
+607,1274,327.05799999999999,NorthAmerica,PRI,Puerto Rico,"Bayamón, Canóvanas, Carolina, Cataño, Dorado, Guaynabo, Loíza, Río Grande, San Juan, Toa Alta, Toa Baja, Trujillo Alto",Unknown,18.3926643612,-66.086783503
+608,1276,334.58499999999998,Asia,QAT,Qatar,"Ad Dawhah, Al Daayen, Al Wakrah, Ar Rayyan, Umm Salal",Unknown,25.2839860559,51.4677033847
+609,1278,163.565,Africa,COG,Republic of Congo,"Brazzaville, Pool","Brazzaville, Ngamaba",-4.23461738417,15.2523896195
+610,1289,413.37400000000002,Europe,ROU,Romania,"Bucharest, Giurgiu, Ilfov","Municipiul Bucuresti, Bolintin-deal, Afumati, Balotesti, Berceni, Bragadiru, Buftea, Cernica, Chiajna, Chitila, Ciorogarla, Clinceni, Corbeanca, Darasti-ilfov, Dobroesti, Domnesti, Dragomiresti-vale, Glina, Jilava, Magurele, Mogosoaia, Otopeni, Pantelimon, Popesti Leordeni, Vidra, Voluntari",44.4333344655,26.085269317
+611,1290,402.38299999999998,Europe,RUS,Russia,"City of St. Petersburg, Leningrad","Sankt-Peterburg gorsovet, Vsevolzhskiy rayon",59.8825851059,30.356100283
+612,1295,100.9,Europe,RUS,Russia,Belgorod,"Belgorod, Belgorodskiy rayon, Yakovlevskiy rayon",50.5941367418,36.5816262496
+613,1297,120.61499999999999,Europe,RUS,Russia,Tula,"Leninskiy rayon, Tula",54.1773740325,37.6162472894
+614,1300,1870.74,Europe,RUS,Russia,"Moscow City, Moskva","Central, Eastern, North-Eastern, North-Western, Northern, South-Eastern, South-Western, Southern, Western, Zelenogradsky, Balashikhinskiy rayon, Dolgoprudny, Dzerzinski, Ivanteevka, Khimki, Klimovsk, Kotelniki, Krasnogorsk, Krasnogorskiy rayon, Kraznoznamensk, Leninskiy rayon, Lobnya, Lyuberetskiy rayon, Mytishchinskiy rayon,  , Naro-Fominskiy rayon, Odintsovskiy rayon, Podol'sk, Podol'skiy rayon, Pushkino, Pushkinskiy rayon, Reutov, Shchelkovskiy rayon, Shcherbinka, Solnechnogorskiy rayon, Zheleznodoroznhy",55.7364490479,37.6173531912
+615,1301,234.316,Europe,RUS,Russia,Belgorod,"Gubkin, Gubkinskiy rayon, Starooskol'skiy rayon, Staryy Oskol",51.2833582058,37.7516066432
+616,1303,257.50200000000001,Europe,RUS,Russia,"Adygey, Krasnodar","Takhtamukaysk rayon, Teuchezhskiy rayon, Dinskiy rayon, Krasnodar gorsovet",45.0563579941,39.0204518493
+617,1305,192.096,Europe,RUS,Russia,Voronezh,"Khokhol'skiy rayon, Novousmanskiy rayon, Ramonskiy rayon, Semilukskiy rayon",51.6794256944,39.1332807713
+618,1306,203.43600000000001,Europe,RUS,Russia,Voronezh,"Novousmanskiy rayon, Ramonskiy rayon",51.6407492868,39.320897933
+619,1307,105.443,Europe,RUS,Russia,Ryazan',"Ryazan', Ryazanskiy rayon",54.6170521719,39.7214362632
+620,1308,264.03500000000003,Europe,RUS,Russia,Lipetsk,"Gryazinskiy rayon, Lipetsk, Lipetskiy rayon",52.5900298622,39.6002927717
+621,1312,268.29500000000002,Europe,RUS,Russia,Rostov,"Aksayskiy rayon, Bataysk, Kagal'nitskiy rayon, Rostov-na-Donu gorod",47.2557749541,39.7222913826
+622,1319,103.131,Europe,RUS,Russia,Tambov,"Tambov, Tambovskiy rayon",52.7216821041,41.42907166
+623,1320,120.386,Europe,RUS,Russia,Stavropol',"Shpakovskiy rayon, Stavropol'",45.069559084,41.9753871415
+624,1325,135.65199999999999,Europe,RUS,Russia,Nizhegorod,"Balakhninskiy rayon, Bogorodskiy rayon, Kstovskiy rayon, Nizhniy Novgorod gorsovet",56.2989120837,43.8697687685
+625,1327,463.81200000000001,Europe,RUS,Russia,Volgograd,"Gorodishchenskiy rayon, Kalachevskiy rayon, Svetloyarskiy rayon, Volzhskiy",48.6691515345,44.5027809082
+626,1329,199.02799999999999,Europe,RUS,Russia,Volgograd,"Gorodishchenskiy rayon, Sredneakhtubinskiy rayon",48.7934095471,44.8101863097
+627,1330,105.43,Europe,RUS,Russia,"Ingush, North Ossetia","Nazranovskiy rayon, Sunzhenskiy rayon, Pravoberezhnyy rayon",43.2433218512,44.817621318
+628,1333,133.203,Europe,RUS,Russia,Saratov,"Saratovskiy rayon, Tatishchevskiy rayon",51.5456891647,45.9697812628
+629,1335,137.18100000000001,Europe,XCA,Caspian Sea,Dagestan,"Buynakskiy rayon, Karabudokhkentskiy rayon, Kaspiysk, Makhachkala gorsovet",42.9465681302,47.5129878628
+630,1340,161.12100000000001,Europe,RUS,Russia,Tatarstan,"Laishevskiy rayon, Pestrechinskiy rayon, Vysokogorskiy rayon",55.8025105418,49.1372594282
+631,1341,104.761,Europe,RUS,Russia,Samara,"Stavropol'skiy rayon, Tol'yatti",53.5439512161,49.3435550656
+632,1343,149.006,Europe,RUS,Russia,Samara,"Samara, Volzhskiy rayon",53.2086718231,50.214463045
+633,1344,102.91,Europe,RUS,Russia,Tatarstan,"Mendeleyevskiy rayon, Naberezhnye Chelny, Tukayevskiy rayon, Yelabuzhskiy rayon",55.7113573967,52.389947167
+634,1347,107.788,Europe,RUS,Russia,Bashkortostan,"Blagoveshchenskiy rayon, Ufimskiy rayon",54.7796729113,56.0385547732
+635,1348,112.569,Europe,RUS,Russia,Perm',"Perm' gorsovet, Permskiy rayon",58.0096305539,56.2664658732
+636,1349,121.151,Europe,RUS,Russia,Orenburg,"Gayskiy rayon, Novoorskiy rayon, Novotroitsk",51.2335144391,58.4287907502
+637,1350,102.06699999999999,Asia,RUS,Russia,Chelyabinsk,"Agapovskiy rayon, Magnitogorsk gorsovet",53.4183994481,59.0408652211
+638,1352,106.605,Europe,RUS,Russia,Kaliningrad,Gur'evskiy rayon,54.7126144476,20.5115424461
+639,1353,144.227,Asia,RUS,Russia,Sverdlovsk,Ekaterinburg gorsovet,56.8383156243,60.6014541955
+640,1354,191.66,Asia,RUS,Russia,Chelyabinsk,"Chelyabinsk gorsovet, Etkul'skiy rayon, Kopeysk gorsovet, Sosnovskiy rayon",55.1818059713,61.4100330834
+641,1356,356.87299999999999,Asia,RUS,Russia,Omsk,Omskiy rayon,54.9780609393,73.3344653897
+642,1357,242.88900000000001,Asia,RUS,Russia,Novosibirsk,"Kochenevskiy rayon, Novosibirskiy rayon",55.0214437663,82.9032914039
+643,1359,126.05,Asia,RUS,Russia,Altay,"Barnaul gorsovet, Pervomayskiy rayon",53.3459343569,83.6968943827
+644,1368,219.49,Asia,RUS,Russia,Krasnoyarsk,"Berezovskiy rayon, Emel'yanovskiy rayon, Krasnoyarsk",56.0365888951,92.92040823
+645,1371,138.548,Asia,RUS,Russia,Irkutsk,"Irkutsk, Irkutskiy rayon, Water body",52.296187626,104.264896626
+646,1372,155.87799999999999,Asia,RUS,Russia,Buryat,"Ivolginskiy rayon, Pribaykal'skiy rayon, Tarbagatayskiy rayon, Ulan-Ude, Zaigraevskiy rayon",51.8270985764,107.614306518
+647,1374,116.176,Asia,RUS,Russia,Khanty-Mansiy,Surgutskiy rayon,61.2771343089,73.3539535575
+648,1376,109.654,Europe,RUS,Russia,"City of St. Petersburg, Leningrad","Sankt-Peterburg gorsovet, Vsevolzhskiy rayon",60.0395749541,30.3471556315
+649,1378,122.837,Asia,RUS,Russia,Khabarovsk,"Khabarovsk, Khabarovskiy rayon",48.4615186103,135.093456615
+650,1382,406.99200000000002,Asia,SAU,Saudi Arabia,Makkah,Unknown,21.5173998096,39.2056493648
+651,1386,860.70899999999995,Asia,SAU,Saudi Arabia,Ar Riyad,Unknown,24.6803912261,46.7304085957
+652,1387,112.31,Asia,SAU,Saudi Arabia,Ash Sharqiyah,Unknown,25.3852888831,49.5815749659
+653,1388,386.74900000000002,Asia,SAU,Saudi Arabia,Ash Sharqiyah,Unknown,26.395787823,50.0986616493
+654,1389,169.55500000000001,Africa,SEN,Senegal,Dakar,"Dakar, Guédiawaye, Pikine, Rufisque",14.7393382749,-17.3930111377
+655,1390,171.85900000000001,Europe,SRB,Serbia,"Grad Beograd, Sremski","Čukarica, Grocka, Novi Beograd, Palilula, Rakovica, Savski Venac, Stari Grad, Surčin, Voždovac, Vračar, Zemun, Zvezdara, Stara Pazova",44.7996878096,20.4225828499
+656,1392,430.60700000000003,Asia,SGP,Singapore,"Central, East, North-East, North, West",Unknown,1.3528972867,103.824951997
+657,1393,108.261,Europe,SVK,Slovakia,Bratislavský,"Bratislava III, Bratislava II, Bratislava I, Bratislava IV, Bratislava V, Pezinok, Senec",48.1579425308,17.1399467283
+658,1398,267.15600000000001,Africa,ZAF,South Africa,"Free State, Gauteng","Fezile Dabi, Sedibeng",-26.7073866992,27.8675297361
+659,1400,4047.36,Africa,ZAF,South Africa,"Gauteng, North West","City of Johannesburg, City of Tshwane, Ekurhuleni, Sedibeng, West Rand, Bojanala",-26.0123351742,28.1244359966
+660,1405,102.223,Africa,ZAF,South Africa,Mpumalanga,Nkangala,-25.8773796408,29.201284846
+661,1406,151.30000000000001,Africa,ZAF,South Africa,Limpopo,Capricorn,-23.8690664197,29.4247469095
+662,1410,794.83799999999997,Africa,ZAF,South Africa,KwaZulu-Natal,"eThekwini, Ugu",-29.8536147859,30.9283719605
+663,1411,829.19899999999996,Africa,ZAF,South Africa,Western Cape,"Cape Winelands, City of Cape Town",-33.9676134743,18.6033151318
+664,1414,262.17200000000003,Africa,ZAF,South Africa,Eastern Cape,Nelson Mandela Bay,-33.8937008086,25.5273652191
+665,1416,165.20500000000001,Africa,ZAF,South Africa,Free State,Mangaung,-29.1275270233,26.2190832529
+666,1419,1617.08,Europe,ESP,Spain,Cataluña,"Barcelona, Girona, Tarragona",41.3782979974,1.83947528523
+667,1420,100.282,Europe,ESP,Spain,Comunidad Valenciana,Castellón,39.9830314651,-0.0594994287937
+668,1423,113.252,Europe,ESP,Spain,País Vasco,Vizcaya,43.290818067,-2.95854542313
+669,1424,1424.66,Europe,ESP,Spain,"Castilla-La Mancha, Comunidad de Madrid","Guadalajara, Toledo, Madrid",40.3879694443,-3.68178653419
+670,1425,143.96799999999999,Europe,ESP,Spain,Andalucía,Granada,37.1672993486,-3.62106742374
+671,1427,197.398,Europe,ESP,Spain,Comunidad Valenciana,Alicante,38.3701084449,-0.497260675947
+672,1428,173.64599999999999,Europe,ESP,Spain,Andalucía,Málaga,36.6720036854,-4.48544423625
+673,1429,104.036,Europe,ESP,Spain,Castilla y León,Valladolid,41.6291869774,-4.72684582237
+674,1432,393.529,Europe,ESP,Spain,Comunidad Valenciana,Valencia,39.4898484311,-0.448354135468
+675,1433,223.542,Europe,ESP,Spain,Andalucía,Sevilla,37.3539363138,-5.96417662767
+676,1435,132.898,Europe,ESP,Spain,"Comunidad Valenciana, Región de Murcia","Alicante, Murcia",37.8939403446,-0.776292767691
+677,1436,113.392,Europe,ESP,Spain,Comunidad Valenciana,Alicante,38.3017433566,-0.735404385003
+678,1437,222.96299999999999,Europe,ESP,Spain,Aragón,Zaragoza,41.640746374,-0.929188218769
+679,1439,394.00200000000001,Europe,ESP,Spain,"Comunidad Valenciana, Región de Murcia","Alicante, Murcia",38.0393436358,-1.12031491391
+680,1441,101.068,Europe,ESP,Spain,Región de Murcia,Murcia,37.6185106237,-0.969914528533
+681,1443,103.196,Europe,ESP,Spain,Comunidad Foral de Navarra,Navarra,42.8020460468,-1.64285258008
+682,1447,209.072,Asia,LKA,Sri Lanka,"Colombo, Gampaha, Kalutara","Colombo, Dehiwala-Mount Lavinia, Homagama, Kaduwela, Kesbewa, Kolonnawa, Maharagama, Moratuwa, Sri Jayawardanapura Kotte, Thimbirigasyaya, Biyagama, Ja-Ela, Katana, Kelaniya, Mahara, Wattala, Panadura",6.90751741254,79.8964048826
+683,1448,134.41399999999999,Africa,SDN,Sudan,Khartoum,"Khartoum Bahri, Khartoum, Omdurman, Um Badda",15.6600617596,32.4584176735
+684,1449,342.85599999999999,Africa,SDN,Sudan,Khartoum,"Khartoum Bahri, Khartoum, South Khartoum",15.5737426583,32.5529943515
+685,1451,158.35900000000001,Europe,SWE,Sweden,Västra Götaland,"Ale, Göteborg, Kungälv, Mölndal, Partille",57.7043669833,11.9540331645
+686,1456,405.03199999999998,Europe,SWE,Sweden,Stockholm,"Botkyrka, Danderyd, Ekerö, Haninge, Huddinge, Järfälla, Nacka, Sigtuna, Sollentuna, Solna, Stockholm, Sundbyberg, Täby, Tyresö, Upplands-Bro, Upplands-Väsby, Vallentuna",59.3624952596,17.996671963
+687,1461,139.38999999999999,Europe,CHE,Switzerland,"Aargau, Zürich","Baden, Bülach, Dielsdorf, Dietikon, Horgen, Meilen, Uster, Zürich",47.3902222764,8.53489576507
+688,1462,283.27499999999998,Asia,SYR,Syria,"Damascus, Rif Dimashq","Damascus, At-Tall, Darayya, Duma, Markaz Rif Dimashq, Qatana, Zabadani",33.4909614509,36.2928667455
+689,1464,138.489,Asia,TJK,Tajikistan,"Dushanbe, Tadzhikistan Territories","Rudaki, Rudaki, Varzob",38.5585980072,68.770464492
+690,1466,262.22500000000002,Africa,TZA,Tanzania,Dar es Salaam,"Ilala, Kinondoni, Temeke",-6.81956937193,39.2288647749
+691,1470,2138.6999999999998,Asia,THA,Thailand,"Bangkok Metropolis, Nakhon Pathom, Nonthaburi, Pathum Thani, Phra Nakhon Si Ayutthaya, Samut Prakan, Samut Sakhon","Bang Bon, Bang Kapi, Bang Khae, Bang Khen, Bang Kho Laem, Bang Na, Bang Plad, Bang Rak, Bang Su, Bangkhuntien, Bangkok Noi, Bangkok Yai, Bung Kum, Chatuchak, Chom Thong, Din Dang, Don Muang, Dusit, Huai Kwang, Khan Na Yao, Khlong Sam Wa, Khlong San, Khlong Toey, Lak Si, Lat Krabang, Lat Phrao, Min Buri, Nongkheam, Pathum Wan, Phasi Charoen, Phaya Thai, Phra Nakhon, Pom Pram Sattru, Prakanong, Prawet, Rat Burana, Ratchathewi, Sai Mai, Samphantawong, Saphan Sung, Sathorn, Suan Luang, Taling Chan, Thawi Wattana, Thon Buri, Thungkru, Wang Thonglang, Wattana, Yannawa, Nakhon Chaisi, Phuttha Mon Thon, Sam Phran, Bang Bua Thong, Bang Kruai, Bang Yai, Muang Nonthaburi, Pak Kret, Sai Noi, Khlong Luang, Lam Luk Ka, Lat Lum Kaeo, Muang Pathum Thani, Sam Khok, Thanyaburi, Bang Pa-In, Wang Noi, Bang Bo, Bang Plee, K. Bang Sao Thon, Muang Samut Prakan, Phra Pra Daeng, Phra Samut Jadee, Krathum Baen, Muang Samut Sakhon",13.7661444821,100.539247666
+692,1475,134.12200000000001,Asia,THA,Thailand,Chon Buri,"Bang Lamung, Si Racha",13.1083921745,100.957715263
+693,1477,204.36199999999999,Asia,THA,Thailand,Chon Buri,"Ban Bung, Muang Chon Buri, Phan Thong, Phanat Nikhom, Si Racha",13.3758662185,101.024870982
+694,1478,103.941,Asia,THA,Thailand,Rayong,"Ban Chang, Ban Khai, Muang Rayong",12.6909374963,101.222205472
+695,1479,108.633,Asia,THA,Thailand,"Chon Buri, Rayong","Bang Lamung, Si Racha, K. Nikhom Pattan, Pluak Daeng",13.0158449242,101.136317735
+696,1482,260.35000000000002,Africa,TGO,Togo,Maritime,"Golfe (incl Lomé), Lacs, Zio",6.19610471922,1.22401241336
+697,1484,454.24299999999999,Africa,TUN,Tunisia,"Ariana, Ben Arous (Tunis Sud), Manubah, Nabeul, Tunis","Ariana Médina, Ettadhamen, Kalaat El Andalous, Mnihla, Raoued, Sebkhet Ariana, Sidi Thabet, Soukra, Ben Arous, Boumhel, El Mourouj, Ezzahra, Fouchana, Hammam Chott, Hammam Lif, M'Hamdia, Mégrine, Mornag, Nouvelle Médina, Radès, Douar Hicher, Manouba, Oued Ellil, Grombalia, Soliman, Bab Bhar, Bab Souika, Bardo, Bouhaira, Carthage, Cité El Khadra, El Menzah, El Ouardia, El Tahrir, Ezzouhour, Hrairia, Jebel Jelloud, Kabaria, La Goulette, La Marsa, Médina, Omrane Supérieur, Omrane, Sabkhet Sijoumi, Sidi El Béchir, Sidi Hassine, Sijoumi, Unknown",36.831459017,10.1908659722
+698,1487,133.84,Africa,TUN,Tunisia,Sfax,"Sakiet Eddaier, Sakiet Ezzit, Sfax Médina, Sfax Ouest, Sfax Sud",34.7670435262,10.7443254802
+699,1488,268.40800000000002,Asia,TUR,Turkey,Izmir,"Çiğli, Balçova, Bornova, Buca, Gaziemir, Karşıyaka, Kemalpaşa, Konak, Menderes, Menemen, Narlıdere",38.435438334,27.1402915535
+700,1489,517.81700000000001,Asia,TUR,Turkey,Istanbul,"Arnavutkoy, Avcılar, Şişli, Büyükçekmece, Bağcılar, Bahçelievler, Bakırköy, Basaksehir, Bayrampaşa, Beşiktaş, Beylikduzu, Beyoğlu, Esenler, Esenyurt, Eyüp, Fatih, Güngören, Gaziosmanpaşa, Küçükçekmece, Kağıthane, Sarıyer, Sultangazi, Zeytinburnu",41.0488029614,28.8222805676
+701,1491,161.63999999999999,Asia,TUR,Turkey,Bursa,"Gürsu, Kestel, Mudanya, Nilüfer, Osmangazi, Yıldırım",40.2202422314,29.0325540272
+702,1492,574.61099999999999,Asia,TUR,Turkey,"Istanbul, Kocaeli","Çekmekoy, Ümraniye, Üsküdar, Atasehir, Beykoz, Kadıköy, Kartal, Maltepe, Pendik, Sancaktepe, Sultanbeyli, Tuzla, Gebze, Körfez",40.9235925025,29.2580214627
+703,1496,189.73400000000001,Asia,TUR,Turkey,Antalya,Merkez,36.9060687972,30.7370972303
+704,1497,124.227,Asia,TUR,Turkey,Konya,"Karatay, Meram, Selçuklu",37.8973864707,32.5018931892
+705,1498,347.15800000000002,Asia,TUR,Turkey,Ankara,"Çankaya, Altındağ, Etimesgut, Keçiören, Mamak, Sincan, Yenimahalle",39.9511982361,32.7873927309
+706,1499,128.71,Asia,TUR,Turkey,Mersin,"Erdemli, Merkez, Tarsus",36.8222018219,34.6344572335
+707,1500,183.94200000000001,Asia,TUR,Turkey,"Adana, Mersin","Karaisali, Seyhan, Yüreğir, Tarsus",37.0078424016,35.3136047897
+708,1504,281.37599999999998,Asia,TUR,Turkey,Gaziantep,"Şahinbey, Şehitkamil, Oğuzeli",37.0851972622,37.3630715174
+709,1506,131.37,Asia,TUR,Turkey,Sanliurfa,Merkez,37.1763874901,38.7959187301
+710,1507,103.3,Asia,TUR,Turkey,Diyarbakir,"Çınar, Merkez",37.9236567698,40.1910366226
+711,1510,268.661,Asia,TKM,Turkmenistan,"Aşgabat, Ahal",Unknown,37.9136802336,58.3852444452
+712,1512,321.61399999999998,Africa,UGA,Uganda,"Kampala, Lake Victoria, Mukono, Wakiso","Kampala, Lake Victoria, Mukono, Busiiro, Jinja",0.318921513422,32.5849626113
+713,1516,254.691,Europe,UKR,Ukraine,"Kiev City, Kiev","Dniprovs'kyi, Holosiïvs'kyi, Obolons'kyi, Pechers'kyi, Podil's'kyi, Shevchenkivs'kyi, Solomians'kyi, Sviatoshyns'kyi, Brovars'kyi, Kyievo-Sviatoshyns'kyi, Vyshhorods'kyi",50.4372720756,30.4474772853
+714,1517,108.322,Europe,UKR,Ukraine,"Kiev City, Kiev","Darnyts'kyi, Desnians'kyi, Dniprovs'kyi, Holosiïvs'kyi, Boryspil's'ka, Brovars'kyi",50.4414043172,30.631129177
+715,1518,290.36799999999999,Europe,UKR,Ukraine,Odessa,"Bilia‹vs'kyi, Kominternivs'kyi, Odes'ka, Ovidiopol's'kyi",46.4577880062,30.6934631139
+716,1519,103.971,Europe,UKR,Ukraine,Mykolayiv,"Mykola‹vs'ka, Mykola‹vs'kyi, Novoodes'kyi, Zhovtnevyi",46.9403691804,32.0204518022
+717,1521,226.66900000000001,Europe,UKR,Ukraine,Dnipropetrovs'k,"Kryvoriz'kyi, KryvyiRig, Shyrokivs'kyi",47.9150557737,33.3992331044
+718,1522,122.34699999999999,Europe,UKR,Ukraine,Sevastopol',"Balaklavs'kyi, Haharins'kyi, Lenins'kyi, Nakhimovs'kyi",44.5854425712,33.5279424364
+719,1523,103.32,Europe,UKR,Ukraine,Crimea,"Simferopol's'ka, Simferopol's'kyi",44.9641186867,34.0873571573
+720,1525,208.45,Europe,UKR,Ukraine,Dnipropetrovs'k,"Dnipropetrovs'ka, Dnipropetrovs'kyi, Petrykivs'kyi",48.4721069738,35.0240848542
+721,1526,148.422,Europe,UKR,Ukraine,Zaporizhzhya,"Vil'nians'kyi, Zaporiz'ka, Zaporiz'kyi",47.838758221,35.1938089348
+722,1527,234.9,Europe,UKR,Ukraine,Kharkiv,"Derhachivs'kyi, Kharkivs'ka, Kharkivs'kyi",49.982454608,36.2625611273
+723,1530,125.715,Europe,UKR,Ukraine,Donets'k,"Mariupol's'ka, Novoazovs'kyi, Pershotravnevyi, Volodars'kyi",47.121756054,37.5762594868
+724,1531,305.75400000000002,Europe,UKR,Ukraine,Donets'k,"Donets'ka, Iasynuvats'kyi, Maki‹vs'ka, Mar‹ns'kyi",48.006774921,37.8327690561
+725,1533,207.88399999999999,Europe,UKR,Ukraine,L'viv,"Horodots'kyi, Iavorivs'kyi, L'vivs'ka, Pustomytivs'kyi, Zhovkivs'kyi",49.8232593761,24.0127800975
+726,1540,137.74700000000001,Asia,ARE,United Arab Emirates,"Ajman, Dubay, Sharjah",Unknown,25.2998602529,55.3958148154
+727,1543,121.46599999999999,Europe,GBR,United Kingdom,England,"Essex, Southend-on-Sea, Thurrock",51.5642387108,0.588319197058
+728,1549,116.11,Europe,GBR,United Kingdom,Scotland,"East Lothian, Edinburgh, Midlothian",55.9358195479,-3.1983804617
+729,1555,369.28500000000003,Europe,GBR,United Kingdom,Scotland,"East Dunbartonshire, East Renfrewshire, Glasgow, North Lanarkshire, Renfrewshire, South Lanarkshire, West Dunbartonshire",55.8438937394,-4.21880520016
+730,1556,155.322,Europe,GBR,United Kingdom,Northern Ireland,"Belfast, Carrickfergus, Castlereagh, Lisburn, Newtownabbey, North Down",54.6074154167,-5.93293272791
+731,1563,113.47799999999999,Europe,GBR,United Kingdom,England,"Leicestershire, Leicester",52.6277384826,-1.13596704367
+732,1565,164.49799999999999,Europe,GBR,United Kingdom,England,"Derbyshire, Nottinghamshire, Nottingham",52.9556821728,-1.19430050739
+733,1566,231.66,Europe,GBR,United Kingdom,England,"Hartlepool, Middlesbrough, Redcar and Cleveland, Stockton-on-Tees",54.5852716749,-1.22537998342
+734,1567,1849.92,Europe,GBR,United Kingdom,England,"Barking and Dagenham, Berkshire, Bexley, Brent, Bromley, Buckinghamshire, Camden, Croydon, Ealing, Enfield, Essex, Greenwich, Hackney, Hammersmith and Fulham, Haringey, Harrow, Havering, Hertfordshire, Hillingdon, Hounslow, Islington, Kensington and Chelsea, Kent, Kingston upon Thames, Lambeth, Lewisham, London, Merton, Newham, Redbridge, Richmond upon Thames, Southwark, Surrey, Sutton, Thurrock, Tower Hamlets, Waltham Forest, Wandsworth, Westminster",51.5017952608,-0.141151235377
+735,1569,283.96600000000001,Europe,GBR,United Kingdom,England,"South Yorkshire, West Yorkshire",53.4381375598,-1.40852414812
+736,1571,111.523,Europe,GBR,United Kingdom,England,"Warwickshire, West Midlands",52.4387255405,-1.49864879438
+737,1572,373.375,Europe,GBR,United Kingdom,England,"Durham, Northumberland, Tyne and Wear",54.9582802595,-1.53131287904
+738,1574,582.9,Europe,GBR,United Kingdom,England,"North Yorkshire, West Yorkshire",53.746511853,-1.6314446398
+739,1576,634.59,Europe,GBR,United Kingdom,England,"Staffordshire, Warwickshire, West Midlands, Worcestershire",52.5091055016,-1.95618136553
+740,1578,104.42100000000001,Europe,GBR,United Kingdom,England,"Cheshire, Staffordshire, Stoke-on-Trent",53.018948238,-2.18371223464
+741,1579,639.04899999999998,Europe,GBR,United Kingdom,England,"Cheshire, Manchester, Warrington",53.4917609334,-2.26319783088
+742,1582,131.59200000000001,Europe,GBR,United Kingdom,England,"Bristol, North Somerset, South Gloucestershire",51.4721247662,-2.56310321387
+743,1583,290.75799999999998,Europe,GBR,United Kingdom,England,"Lancashire, Manchester, Merseyside",53.4510490816,-2.83361683685
+744,1584,166.577,SouthAmerica,URY,Uruguay,"Canelones, Montevideo","n.a349, n.a354",-34.8609471415,-56.1630544891
+745,1588,122.87,Asia,UZB,Uzbekistan,Samarkand,"Jomboy, Oqdaryo, Pastdarg'om, Payariq, Samarqand",39.6569931939,66.9485192003
+746,1590,521.38,Asia,KAZ,Kazakhstan,"South Kazakhstan, Tashkent City, Tashkent","Saryagashskiy, Tashkent City, O'rtachirchiq, Qibray, Toshkent, Yuqorichirchiq, Zangiota",41.30552378,69.256997727
+747,1592,167.19499999999999,Asia,UZB,Uzbekistan,Namangan,"Chortoq, Kosonsoy, Namangan, To'raqo'rg'on, Uychi, Yagiqo'rg'on",41.0126792528,71.6793530325
+748,1593,150.761,Asia,UZB,Uzbekistan,Ferghana,"Farg'ona, Oxunboboev, Toshloq",40.4257182691,71.7597420073
+749,1594,128.09299999999999,Asia,UZB,Uzbekistan,Andijon,"Andijon, Asaka, Izboskan, Oltinko'l",40.7718503336,72.3415859299
+750,1600,201.96299999999999,SouthAmerica,VEN,Venezuela,"Distrito Capital, Miranda","Libertador, Baruta, Chacao, El Hatillo, Guaicaipuro, Los Salias, Sucre",10.4752088183,-66.8905068187
+751,1601,123.758,SouthAmerica,VEN,Venezuela,"Aragua, Carabobo","Francisco Linares, Girardot, José Angel Lamas, Libertador, Mario Briceño Iragorry, Santiago Mariño, Sucre, Diego Ibarra, Lago Valencia",10.2265959839,-67.5510378342
+752,1602,193.958,SouthAmerica,VEN,Venezuela,Carabobo,"Guacara, Libertador, Los Guayos, Naguanagua, San Diego, Valencia",10.1785251984,-67.9762453858
+753,1603,173.249,SouthAmerica,VEN,Venezuela,Lara,"Iribarren, Jiménez, Palavecino",10.0545876163,-69.3578148305
+754,1605,228.786,SouthAmerica,VEN,Venezuela,Zulia,"La Cañada de Urdaneta, Maracaibo, San Francisco",10.6342694119,-71.6535633189
+755,1606,220.761,Asia,VNM,Vietnam,Hà Nội,"Đống Đa, Đan Phượng, Ba Đình, Cầu Giấy, Hà Đông, Hai Bà Trưng, Hoài Đức, Hoàn Kiếm, Hoàng Mai, Tây Hồ, Từ Liêm, Thường Tín, Thanh Oai, Thanh Trì, Thanh Xuân",21.0074939807,105.798957159
+756,1607,115.119,Asia,VNM,Vietnam,"Bắc Ninh, Hà Nội, Hưng Yên","Từ Sơn, Tiên Du, Yên Phong, Đông Anh, Gia Lâm, Long Biên, Văn Giang, Văn Lâm",21.0568296414,105.934621724
+757,1609,910.00099999999998,Asia,VNM,Vietnam,"Đồng Nai, Bình Dương, Hồ Chí Minh city, Long An","Bien Hoa, Long Thành, Trảng Bom, Vĩnh Cửu, Bến Cát, Di An, Tân Uyên, Thủ Dầu Một, Thuận An, Bình Chánh, Bình Thạnh, Binh Tan, Củ Chi, Gò Vấp, Hóc Môn, Nhà Bè, Phú Nhuận, Quận 10, Quận 11, Quận 12, Quận 1, Quận 2, Quận 3, Quận 4, Quận 5, Quận 6, Quận 7, Quận 8, Quận 9, Tân Bình, Tan Phu, Thủ Đức, Bến Lức, Cần Đước, Cần Giuộc",10.8759465576,106.710954728
+758,1614,194.684,Asia,VNM,Vietnam,"Đà Nẵng, Quảng Nam","Cẩm Lệ, Hải Châu, Hoà Vang, Liên Chiểu, Ngũ Hành Sơn, Sơn Trà, Thanh Khê, Điện Bàn, Hội An",16.0095491272,108.219566682
+759,1616,260.351,Asia,ISR,Israel,"Jerusalem, West Bank","Bethlehem, Jerusalem, Ramallah and Al-Bireh",31.7922683138,35.2403843864
+760,1619,104.70399999999999,Africa,ZMB,Zambia,Copperbelt,Kitwe,-12.8112865823,28.2121222977
+761,1620,221.68,Africa,ZMB,Zambia,"Central, Lusaka","Chibombo, Kafue, Lusaka",-15.4071194151,28.3034239147
+762,1622,304.34399999999999,Africa,ZWE,Zimbabwe,"Harare, Mashonaland West","Harare, Zvimba",-17.8413041886,31.006058539
+763,1628,233.81299999999999,NorthAmerica,USA,United States,Alabama,Montgomery,32.362575809,-86.2525219646
+764,1629,307.83699999999999,NorthAmerica,USA,United States,Alabama,"Limestone, Madison",34.7171105417,-86.6629176804
+765,1630,705.08900000000006,NorthAmerica,USA,United States,Alabama,"Jefferson, Shelby",33.4579864429,-86.8027235432
+766,1632,135.483,NorthAmerica,USA,United States,Alabama,Tuscaloosa,33.1960373789,-87.543951412
+767,1634,289.483,NorthAmerica,USA,United States,Alabama,Mobile,30.681898434,-88.1316850758
+768,1636,289.54899999999998,NorthAmerica,USA,United States,Arkansas,"Pulaski, Saline",34.7611165829,-92.3205773923
+769,1637,265.48200000000003,NorthAmerica,USA,United States,Arkansas,"Benton, Washington",36.230081715,-94.1674016925
+770,1639,550.68200000000002,NorthAmerica,USA,United States,Arizona,Pima,32.2538622408,-110.934156257
+771,1641,2572.34,NorthAmerica,USA,United States,Arizona,"Maricopa, Pinal",33.4858134246,-112.004280499
+772,1643,359.60199999999998,NorthAmerica,USA,United States,California,Riverside,33.7526209058,-116.362030981
+773,1645,100.08499999999999,NorthAmerica,USA,United States,California,Riverside,33.7559136604,-116.961973103
+774,1646,1707.6,NorthAmerica,MEX,Mexico,"Baja California, California","Tijuana, San Diego",32.9090525098,-117.132507236
+775,1647,197.85499999999999,NorthAmerica,USA,United States,California,San Bernardino,34.4744133565,-117.293531361
+776,1648,194.33199999999999,NorthAmerica,USA,United States,California,Los Angeles,34.6352776225,-118.144435741
+777,1649,7222.58,NorthAmerica,USA,United States,California,"Los Angeles, Orange, Riverside, San Bernardino, San Diego, Ventura",33.9592203127,-117.905590696
+778,1650,355.51,NorthAmerica,USA,United States,California,Kern,35.3682905658,-119.043832833
+779,1651,213.60499999999999,NorthAmerica,USA,United States,California,Ventura,34.2273170401,-119.157115751
+780,1653,441.13099999999997,NorthAmerica,USA,United States,California,"Fresno, Madera, Tulare",36.7702249221,-119.753870908
+781,1657,120.97499999999999,NorthAmerica,USA,United States,California,Merced,37.3281137932,-120.524584703
+782,1658,592.57000000000005,NorthAmerica,USA,United States,California,"Merced, San Joaquin, Stanislaus",37.7999384171,-121.13776558
+783,1659,1135.83,NorthAmerica,USA,United States,California,"El Dorado, Placer, Sacramento, Yolo",38.629056019,-121.348446808
+784,1669,2359.6,NorthAmerica,USA,United States,California,"Alameda, Contra Costa, San Francisco, San Mateo, Santa Clara",37.6367992432,-122.065059757
+785,1671,103.745,NorthAmerica,USA,United States,California,"Napa, Solano",38.1110281917,-122.214169566
+786,1672,110.28700000000001,NorthAmerica,USA,United States,California,Shasta,40.5818458202,-122.365072811
+787,1673,116.27800000000001,NorthAmerica,USA,United States,California,Marin,37.9878788109,-122.53343582
+788,1674,110.148,NorthAmerica,USA,United States,California,Sonoma,38.4235126354,-122.711024548
+789,1675,111.288,NorthAmerica,USA,United States,Colorado,Pueblo,38.2640087882,-104.613147775
+790,1676,100.851,NorthAmerica,USA,United States,Colorado,Weld,40.4085925591,-104.726282682
+791,1677,472.14400000000001,NorthAmerica,USA,United States,Colorado,El Paso,38.8632676266,-104.78762176
+792,1678,115.771,NorthAmerica,USA,United States,Colorado,Larimer,40.5526938031,-105.069155163
+793,1681,1532.27,NorthAmerica,USA,United States,Colorado,"Adams, Arapahoe, Boulder, Broomfield, Denver, Douglas, Jefferson",39.7265599558,-104.972941486
+794,1685,1200.52,NorthAmerica,USA,United States,Connecticut,"Fairfield, Hartford, Litchfield, Middlesex, New Haven, Tolland",41.5609701671,-72.8203553946
+795,1687,115.803,NorthAmerica,USA,United States,"Connecticut, New York","Fairfield, Westchester",41.0810219294,-73.5003285425
+796,1689,159.494,NorthAmerica,USA,United States,"District of Columbia, Maryland, Virginia","District of Columbia, Montgomery, Prince George's, Arlington",38.9101763649,-77.014534348
+797,1690,356.572,NorthAmerica,USA,United States,"Delaware, Maryland, Pennsylvania","New Castle, Cecil, Delaware",39.7106719788,-75.6217883915
+798,1692,3495.97,NorthAmerica,USA,United States,Florida,"Broward, Martin, Miami-Dade, Palm Beach",26.1666319236,-80.2475845564
+799,1693,792.76700000000005,NorthAmerica,USA,United States,Florida,"Indian River, Martin, Saint Lucie",27.3885214711,-80.356554613
+800,1695,456.452,NorthAmerica,USA,United States,Florida,Brevard,28.1667379077,-80.6944164248
+801,1698,231.74799999999999,NorthAmerica,USA,United States,Florida,"Flagler, Volusia",29.1897900845,-81.0570249008
+802,1699,131.04300000000001,NorthAmerica,USA,United States,Florida,Flagler,29.5326886186,-81.2171640145
+803,1700,3099.92,NorthAmerica,USA,United States,Florida,"Lake, Orange, Osceola, Polk, Seminole, Volusia",28.4830156495,-81.4519174943
+804,1702,138.13200000000001,NorthAmerica,USA,United States,Florida,"Highlands, Polk",27.5254323168,-81.4812127432
+805,1705,1044.02,NorthAmerica,USA,United States,Florida,"Clay, Duval, Saint Johns",30.2816696969,-81.6268512996
+806,1706,1098.74,NorthAmerica,USA,United States,Florida,"Collier, Lee",26.4072809744,-81.7561521299
+807,1707,312.233,NorthAmerica,USA,United States,Florida,"Charlotte, Lee",26.6548030906,-81.9605278263
+808,1709,414.67099999999999,NorthAmerica,USA,United States,Florida,"Hillsborough, Polk",28.0094542149,-81.9824970558
+809,1710,684.40200000000004,NorthAmerica,USA,United States,Florida,"Lake, Marion, Orange, Sumter",29.007473476,-82.003275173
+810,1711,253.756,NorthAmerica,USA,United States,Florida,"Charlotte, Desoto, Sarasota",27.0275565994,-82.1368335597
+811,1712,114.212,NorthAmerica,USA,United States,Florida,Alachua,29.6653783723,-82.3612003583
+812,1714,777.89,NorthAmerica,USA,United States,Florida,"Charlotte, Manatee, Sarasota",27.2712149555,-82.4515135484
+813,1715,2427.91,NorthAmerica,USA,United States,Florida,"Hernando, Hillsborough, Pasco, Pinellas",28.0566445219,-82.5368686722
+814,1716,102.717,NorthAmerica,USA,United States,Florida,"Hillsborough, Manatee",27.5579064466,-82.5158221114
+815,1718,112.008,NorthAmerica,USA,United States,Florida,Bay,30.1895212454,-85.6387296942
+816,1721,269.27,NorthAmerica,USA,United States,Florida,"Escambia, Santa Rosa",30.4795251266,-87.2573250705
+817,1722,481.65600000000001,NorthAmerica,USA,United States,"Georgia, South Carolina","Chatham, Effingham, Jasper",32.0820432177,-81.1762728416
+818,1723,105.14,NorthAmerica,USA,United States,Georgia,Glynn,31.2202682991,-81.4941161382
+819,1724,101.435,NorthAmerica,USA,United States,Georgia,"Liberty, Long",31.8330315869,-81.6173509921
+820,1727,560.91800000000001,NorthAmerica,USA,United States,"Georgia, South Carolina","Columbia, Richmond, Aiken",33.4518423975,-82.0870041941
+821,1728,103.67400000000001,NorthAmerica,USA,United States,Georgia,"Brantley, Pierce, Ware",31.2293560527,-82.348819456
+822,1732,142.87299999999999,NorthAmerica,USA,United States,Georgia,"Houston, Peach",32.6025673712,-83.6595602901
+823,1733,131.934,NorthAmerica,USA,United States,Georgia,"Bibb, Jones, Monroe",32.8384305672,-83.672623116
+824,1737,3813.9,NorthAmerica,USA,United States,Georgia,"Bartow, Cherokee, Clayton, Cobb, DeKalb, Douglas, Fayette, Forsyth, Fulton, Gwinnett, Hall, Henry, Newton, Paulding, Rockdale, Walton",33.8629656333,-84.3159261289
+825,1740,191.74100000000001,NorthAmerica,USA,United States,"Alabama, Georgia","Russell, Muscogee",32.4924461991,-84.9313512927
+826,1741,142.864,NorthAmerica,USA,United States,"Illinois, Iowa","Rock Island, Scott",41.5576082374,-90.5491774092
+827,1744,117.471,NorthAmerica,USA,United States,Iowa,Johnson,41.6820747663,-91.5704109734
+828,1745,222.28299999999999,NorthAmerica,USA,United States,Iowa,"Johnson, Linn",41.9905675748,-91.6632906708
+829,1746,167.61500000000001,NorthAmerica,USA,United States,Iowa,Black Hawk,42.5005252318,-92.3808912066
+830,1747,610.94299999999998,NorthAmerica,USA,United States,Iowa,"Dallas, Polk, Warren",41.616737978,-93.6702658338
+831,1749,107.267,NorthAmerica,USA,United States,"Iowa, Nebraska","Mills, Pottawattamie, Douglas, Sarpy",41.2471827742,-95.8547960442
+832,1750,129.375,NorthAmerica,USA,United States,"Iowa, Nebraska, South Dakota","Plymouth, Woodbury, Dakota, Union",42.4827175734,-96.3758617641
+833,1753,273.87900000000002,NorthAmerica,USA,United States,Idaho,Ada,43.6067919238,-116.294395945
+834,1757,5466.7,NorthAmerica,USA,United States,"Illinois, Indiana","Cook, Dupage, Grundy, Kane, Kendall, Lake Michigan, Lake, McHenry, Will, Lake",41.8720975066,-87.9732226798
+835,1759,117.84099999999999,NorthAmerica,USA,United States,Illinois,McLean,40.4960023667,-88.9766428995
+836,1761,254.32599999999999,NorthAmerica,USA,United States,"Illinois, Wisconsin","Boone, Winnebago, Rock",42.307343808,-89.041220595
+837,1762,128.31700000000001,NorthAmerica,USA,United States,Illinois,Sangamon,39.7882223591,-89.6593827138
+838,1763,137.38399999999999,NorthAmerica,USA,United States,Illinois,"Peoria, Tazewell",40.7198150699,-89.6116722225
+839,1764,687.02599999999995,NorthAmerica,USA,United States,"Illinois, Missouri","Madison, Monroe, Saint Clair, Saint Louis",38.6809826961,-90.0763662575
+840,1765,155.70099999999999,NorthAmerica,USA,United States,"Illinois, Iowa","Henry, Rock Island, Scott",41.4825028128,-90.5067270009
+841,1767,346.09399999999999,NorthAmerica,USA,United States,Indiana,"Allen, Whitley",41.093220971,-85.1421273483
+842,1769,159.03899999999999,NorthAmerica,USA,United States,"Indiana, Kentucky","Clark, Floyd, Jefferson",38.3375805068,-85.7524526473
+843,1771,135.672,NorthAmerica,USA,United States,Indiana,"Elkhart, Saint Joseph",41.6618884711,-85.9292073397
+844,1772,1507.27,NorthAmerica,USA,United States,Indiana,"Boone, Hamilton, Hancock, Hendricks, Johnson, Marion, Morgan",39.8215979992,-86.144133926
+845,1774,187.15600000000001,NorthAmerica,USA,United States,"Indiana, Michigan","Saint Joseph, Berrien",41.6856372835,-86.2263803046
+846,1776,117.22499999999999,NorthAmerica,USA,United States,Indiana,Tippecanoe,40.4125319305,-86.8778731901
+847,1778,585.22500000000002,NorthAmerica,USA,United States,"Illinois, Indiana","Cook, Lake Michigan, Lake, Porter",41.5518365844,-87.3670182536
+848,1779,169.828,NorthAmerica,USA,United States,Indiana,"Vanderburgh, Warrick",37.9903169099,-87.5126127827
+849,1780,870.32100000000003,NorthAmerica,USA,United States,"Kansas, Missouri","Johnson, Leavenworth, Miami, Wyandotte, Cass, Clay, Jackson, Platte",38.9841165731,-94.7449015607
+850,1783,102.456,NorthAmerica,USA,United States,Kansas,Douglas,38.9575414433,-95.2643239124
+851,1784,338.71899999999999,NorthAmerica,USA,United States,Kansas,"Jefferson, Shawnee",39.0346123755,-95.6864865016
+852,1785,217.99600000000001,NorthAmerica,USA,United States,Kansas,"Geary, Pottawatomie, Riley",39.1134630109,-96.7192060157
+853,1787,971.202,NorthAmerica,USA,United States,Kansas,"Butler, Sedgwick",37.6777435101,-97.295639608
+854,1790,291.85199999999998,NorthAmerica,USA,United States,"Kentucky, Ohio","Boone, Campbell, Kenton, Hamilton",39.0254743636,-84.5927144337
+855,1791,204.87299999999999,NorthAmerica,USA,United States,Kentucky,"Fayette, Jessamine",38.0246430168,-84.497426516
+856,1792,635.78800000000001,NorthAmerica,USA,United States,"Indiana, Kentucky","Clark, Floyd, Bullitt, Jefferson, Oldham",38.1991198877,-85.6824964279
+857,1798,555.30700000000002,NorthAmerica,USA,United States,Louisiana,"Jefferson, Orleans, Plaquemines, Saint Bernard, Saint Charles",29.957954894,-90.1017370995
+858,1801,407.26,NorthAmerica,USA,United States,Louisiana,"Ascension, East Baton Rouge",30.4108825907,-91.0736485832
+859,1803,287.50400000000002,NorthAmerica,USA,United States,Louisiana,"Iberia, Lafayette, Saint Martin, Vermilion",30.15729109,-91.992669868
+860,1808,245.53700000000001,NorthAmerica,USA,United States,Louisiana,"Bossier, Caddo",32.4733456136,-93.7488273365
+861,1813,1513.27,NorthAmerica,USA,United States,Massachusetts,"Bristol, Essex, Middlesex, Norfolk, Plymouth, Suffolk",42.3615506152,-71.1005055654
+862,1815,184.13300000000001,NorthAmerica,USA,United States,Massachusetts,"Middlesex, Worcester",42.2670985021,-71.7677260907
+863,1817,276.12900000000002,NorthAmerica,USA,United States,Massachusetts,"Hampden, Hampshire",42.133107135,-72.571872942
+864,1818,2106.58,NorthAmerica,USA,United States,"District of Columbia, Maryland, Virginia","District of Columbia, Anne Arundel, Baltimore, Howard, Montgomery, Prince George's, Fairfax",39.1352792169,-76.8052852723
+865,1824,103.996,NorthAmerica,CAN,Canada,"Ontario, Michigan","Lake Hurron, Lambton, Lake Hurron, Lake St. Clair, Saint Clair",42.9199273253,-82.4743939674
+866,1825,3320.13,NorthAmerica,USA,United States,"Michigan, Ohio","Lake St. Clair, Macomb, Monroe, Oakland, Saint Clair, Washtenaw, Wayne, Lake Erie",42.4452878005,-83.2440553529
+867,1826,340.053,NorthAmerica,USA,United States,Michigan,"Genesee, Oakland",43.0018890534,-83.6785143336
+868,1827,236.536,NorthAmerica,USA,United States,Michigan,"Bay, Lake Hurron, Saginaw",43.5047967062,-83.9316562946
+869,1830,283.065,NorthAmerica,USA,United States,Michigan,"Clinton, Eaton, Ingham",42.7249443954,-84.5634973592
+870,1832,149.33199999999999,NorthAmerica,USA,United States,Michigan,Kalamazoo,42.2626002691,-85.5911534646
+871,1833,517.49400000000003,NorthAmerica,USA,United States,Michigan,"Kent, Ottawa",42.9239243243,-85.6800049994
+872,1835,113.136,NorthAmerica,USA,United States,Michigan,"Allegan, Ottawa",42.7994523634,-86.0799617721
+873,1836,140.13200000000001,NorthAmerica,USA,United States,Michigan,"Lake Michigan, Muskegon, Ottawa",43.1720391972,-86.2232187474
+874,1839,125.268,NorthAmerica,USA,United States,Minnesota,Olmsted,44.025072232,-92.4746383484
+875,1841,2692.79,NorthAmerica,USA,United States,Minnesota,"Anoka, Carver, Dakota, Hennepin, Ramsey, Scott, Sherburne, Washington, Wright",44.968532727,-93.2826420931
+876,1844,138.173,NorthAmerica,USA,United States,Minnesota,"Benton, Sherburne, Stearns",45.5612724767,-94.19327658
+877,1846,1666.79,NorthAmerica,USA,United States,"Illinois, Missouri","Madison, Saint Clair, Jefferson, Saint Charles, Saint Louis, Warren",38.6578535471,-90.4678972868
+878,1848,155.845,NorthAmerica,USA,United States,Missouri,Boone,38.9505786086,-92.3244213801
+879,1849,416.76900000000001,NorthAmerica,USA,United States,Missouri,"Christian, Greene, Webster",37.1516036212,-93.2820137375
+880,1850,200.04300000000001,NorthAmerica,USA,United States,Missouri,"Jasper, Newton",37.0998371197,-94.4954545176
+881,1851,1278.99,NorthAmerica,USA,United States,"Kansas, Missouri","Johnson, Wyandotte, Cass, Clay, Jackson, Platte",39.062045229,-94.4873316684
+882,1852,114.32899999999999,NorthAmerica,USA,United States,"Kansas, Missouri","Doniphan, Andrew, Buchanan",39.7666908291,-94.8212397263
+883,1856,154.01300000000001,NorthAmerica,USA,United States,Mississippi,Harrison,30.4051308751,-89.0527351082
+884,1860,113.62,NorthAmerica,USA,United States,Mississippi,"Hinds, Madison, Rankin",32.3578057886,-90.1392117967
+885,1861,127.11199999999999,NorthAmerica,USA,United States,Montana,Yellowstone,45.7808899799,-108.525387642
+886,1866,186.607,NorthAmerica,USA,United States,North Carolina,Pitt,35.5909398654,-77.3682348433
+887,1867,128.096,NorthAmerica,USA,United States,North Carolina,Onslow,34.766982815,-77.3807632182
+888,1870,184.934,NorthAmerica,USA,United States,North Carolina,"Edgecombe, Nash, Wilson",35.9614399661,-77.8309777522
+889,1871,417.62700000000001,NorthAmerica,USA,United States,North Carolina,"Brunswick, New Hanover, Pender",34.2325056013,-77.9171324884
+890,1872,131.328,NorthAmerica,USA,United States,North Carolina,Wilson,35.738659555,-77.931652329
+891,1874,167.46600000000001,NorthAmerica,USA,United States,North Carolina,"Johnston, Wayne",35.3962175482,-77.9926430903
+892,1877,1923.74,NorthAmerica,USA,United States,North Carolina,"Chatham, Durham, Franklin, Granville, Harnett, Johnston, Orange, Wake, Wilson",35.7939672417,-78.6977068476
+893,1878,701.18799999999999,NorthAmerica,USA,United States,North Carolina,"Cumberland, Harnett, Hoke, Robeson",35.0510570747,-78.9714201158
+894,1880,209.16300000000001,NorthAmerica,USA,United States,North Carolina,Robeson,34.6562484499,-79.0870773264
+895,1881,103.657,NorthAmerica,USA,United States,North Carolina,"Hoke, Moore",35.1810867152,-79.4288036076
+896,1884,1996.63,NorthAmerica,USA,United States,North Carolina,"Alamance, Davidson, Davie, Forsyth, Guilford, Orange, Randolph",36.0449660657,-79.9724616312
+897,1885,2687.78,NorthAmerica,USA,United States,"North Carolina, South Carolina","Cabarrus, Catawba, Cleveland, Gaston, Iredell, Lincoln, Mecklenburg, Rowan, Union, Lancaster, York",35.2756846388,-80.8316855693
+898,1887,158.53200000000001,NorthAmerica,USA,United States,North Carolina,"Iredell, Mecklenburg",35.5727264076,-80.8479843432
+899,1888,100.742,NorthAmerica,USA,United States,North Carolina,Iredell,35.7970230815,-80.8693577976
+900,1890,552.601,NorthAmerica,USA,United States,North Carolina,"Alexander, Burke, Caldwell, Catawba, Lincoln",35.7099715657,-81.3187399578
+901,1891,111.58499999999999,NorthAmerica,USA,United States,North Carolina,Burke,35.7340992986,-81.6672248869
+902,1893,124.511,NorthAmerica,USA,United States,North Carolina,"Buncombe, Henderson",35.3658009683,-82.4663819009
+903,1895,181.69800000000001,NorthAmerica,USA,United States,"Minnesota, North Dakota","Clay, Cass",46.8574954262,-96.8550511145
+904,1896,117.384,NorthAmerica,USA,United States,"Minnesota, North Dakota","Polk, Grand Forks",47.9217364531,-97.1042767552
+905,1899,747.24800000000005,NorthAmerica,USA,United States,"Iowa, Nebraska","Pottawattamie, Douglas, Sarpy, Washington",41.2315409284,-96.0853121185
+906,1901,343.399,NorthAmerica,USA,United States,Nebraska,Lancaster,40.80880703,-96.6757261834
+907,1908,3939.21,NorthAmerica,USA,United States,"New Jersey, New York, Pennsylvania","Bergen, Burlington, Essex, Hudson, Hunterdon, Mercer, Middlesex, Monmouth, Morris, Ocean, Passaic, Somerset, Sussex, Union, Rockland, Bucks",40.539354115,-74.3007172636
+908,1911,158.179,NorthAmerica,USA,United States,New Jersey,Atlantic,39.3928303467,-74.5522389179
+909,1913,943.96100000000001,NorthAmerica,USA,United States,"New Jersey, Pennsylvania","Burlington, Camden, Gloucester, Bucks, Philadelphia",39.8834633485,-74.9970824931
+910,1914,113.63800000000001,NorthAmerica,USA,United States,New Jersey,"Atlantic, Cumberland, Gloucester",39.4569996819,-75.0094306518
+911,1915,427.58600000000001,NorthAmerica,USA,United States,New Mexico,"Bernalillo, Sandoval",35.123023049,-106.615990447
+912,1917,915.36800000000005,NorthAmerica,USA,United States,Nevada,Clark,36.1391436603,-115.163470585
+913,1918,227.559,NorthAmerica,USA,United States,Nevada,"Storey, Washoe",39.5099314801,-119.791010488
+914,1919,1898.86,NorthAmerica,USA,United States,New York,"Kings, Nassau, Queens, Suffolk",40.7589614274,-73.4719181429
+915,1920,445.947,NorthAmerica,USA,United States,"Connecticut, New York","Fairfield, Bronx, New York, Westchester",40.9332711657,-73.8314223554
+916,1922,316.08199999999999,NorthAmerica,USA,United States,New York,"Albany, Rensselaer, Saratoga, Schenectady",42.7302129393,-73.8072528739
+917,1923,163.09,NorthAmerica,USA,United States,"New Jersey, New York","Bergen, Rockland",41.1036124105,-74.014659233
+918,1924,135.71899999999999,NorthAmerica,USA,United States,New York,Richmond,40.5836407994,-74.1501769455
+919,1928,275.11,NorthAmerica,USA,United States,New York,"Onondaga, Oswego",43.0883687058,-76.1491231476
+920,1929,314.79500000000002,NorthAmerica,USA,United States,New York,"Lake Ontario, Monroe",43.1612117352,-77.6437885858
+921,1930,757.06500000000005,NorthAmerica,CAN,Canada,"Ontario, New York, Ohio","Niagara, Erie, Lake Ontario, Niagara, Lake Erie",42.9424333836,-78.8074682863
+922,1931,292.786,NorthAmerica,USA,United States,Ohio,"Mahoning, Trumbull",41.1298283141,-80.70921517
+923,1932,1542.79,NorthAmerica,USA,United States,Ohio,"Cuyahoga, Geauga, Lake Erie, Lake, Lorain, Medina, Portage, Summit",41.4474245621,-81.7125577672
+924,1933,253.58199999999999,NorthAmerica,USA,United States,Ohio,"Stark, Summit",40.8239914227,-81.4229863428
+925,1934,298.99599999999998,NorthAmerica,USA,United States,Ohio,"Medina, Portage, Summit, Wayne",41.0949668102,-81.503585388
+926,1937,1095.52,NorthAmerica,USA,United States,Ohio,"Delaware, Fairfield, Franklin, Licking, Pickaway, Union",40.011369132,-82.9853343874
+927,1938,518.08699999999999,NorthAmerica,USA,United States,"Michigan, Ohio","Lenawee, Monroe, Lake Erie, Lucas, Ottawa, Wood",41.6318558981,-83.5984868121
+928,1941,633.94799999999998,NorthAmerica,USA,United States,Ohio,"Clark, Greene, Miami, Montgomery, Warren",39.7393960401,-84.1775817017
+929,1945,938.03399999999999,NorthAmerica,USA,United States,"Kentucky, Ohio","Campbell, Kenton, Butler, Clermont, Hamilton, Warren",39.2591096953,-84.4702785032
+930,1946,586.61800000000005,NorthAmerica,USA,United States,Oklahoma,"Creek, Osage, Rogers, Tulsa, Wagoner",36.0966741927,-95.9116420198
+931,1947,963.11099999999999,NorthAmerica,USA,United States,Oklahoma,"Canadian, Cleveland, Logan, McClain, Oklahoma",35.4678240329,-97.5266302298
+932,1952,1055.97,NorthAmerica,USA,United States,"Oregon, Washington","Clackamas, Multnomah, Washington, Clark",45.4806071058,-122.689445251
+933,1954,176.98099999999999,NorthAmerica,USA,United States,Oregon,"Marion, Polk",44.9388596779,-123.014522201
+934,1955,219.53200000000001,NorthAmerica,USA,United States,Oregon,Lane,44.0650238238,-123.081916959
+935,1958,403.404,NorthAmerica,USA,United States,"New Jersey, Pennsylvania","Warren, Lehigh, Northampton",40.6286725727,-75.4277139677
+936,1959,1969.78,NorthAmerica,USA,United States,"Delaware, New Jersey, Pennsylvania","New Castle, Burlington, Camden, Mercer, Berks, Bucks, Chester, Delaware, Montgomery, Philadelphia",40.0876019217,-75.2230348349
+937,1961,276.61900000000003,NorthAmerica,USA,United States,Pennsylvania,"Lackawanna, Luzerne",41.3462913071,-75.7527072199
+938,1962,129.79,NorthAmerica,USA,United States,Pennsylvania,Berks,40.3511054255,-75.9457587159
+939,1964,182.09299999999999,NorthAmerica,USA,United States,Pennsylvania,Lancaster,40.0704547087,-76.3389432192
+940,1965,183.221,NorthAmerica,USA,United States,Pennsylvania,York,39.9701271671,-76.7269307519
+941,1966,198.08,NorthAmerica,USA,United States,Pennsylvania,Dauphin,40.274757421,-76.795413445
+942,1967,180.25200000000001,NorthAmerica,USA,United States,Pennsylvania,"Cumberland, Dauphin, York",40.2288477727,-77.0151866134
+943,1968,105.40900000000001,NorthAmerica,USA,United States,"Ohio, Pennsylvania","Lake Erie, Erie",42.1019715037,-80.0894007226
+944,1969,849.69600000000003,NorthAmerica,USA,United States,Pennsylvania,"Allegheny, Beaver, Butler, Washington, Westmoreland",40.4522092884,-79.9770112997
+945,1970,506.23099999999999,NorthAmerica,USA,United States,"Massachusetts, Rhode Island","Bristol, Norfolk, Worcester, Bristol, Kent, Providence, Washington",41.8004969862,-71.4540198782
+946,1971,471.74299999999999,NorthAmerica,USA,United States,"North Carolina, South Carolina","Brunswick, Georgetown, Horry",33.7315548168,-78.8986448424
+947,1973,111.91500000000001,NorthAmerica,USA,United States,South Carolina,"Berkeley, Charleston",32.8534965573,-79.8222972616
+948,1974,302.47300000000001,NorthAmerica,USA,United States,South Carolina,"Darlington, Florence",34.2099678189,-79.8162192393
+949,1977,609.88199999999995,NorthAmerica,USA,United States,South Carolina,"Berkeley, Charleston, Dorchester",32.9212732401,-80.0697727742
+950,1978,203.666,NorthAmerica,USA,United States,South Carolina,Sumter,33.9267161776,-80.3955729437
+951,1979,1232.54,NorthAmerica,USA,United States,South Carolina,"Calhoun, Kershaw, Lexington, Newberry, Richland",34.016941477,-81.0669652769
+952,1983,107.70399999999999,NorthAmerica,USA,United States,South Carolina,Orangeburg,33.4960128274,-80.8637354622
+953,1985,369.72,NorthAmerica,USA,United States,"North Carolina, South Carolina","Mecklenburg, Union, Lancaster, York",34.9788436084,-80.982399714
+954,1987,477.52100000000002,NorthAmerica,USA,United States,"Georgia, South Carolina","Richmond, Aiken, Edgefield",33.5271435865,-81.8166762707
+955,1988,1552.05,NorthAmerica,USA,United States,South Carolina,"Anderson, Greenville, Laurens, Pickens, Spartanburg",34.8780193615,-82.2101577249
+956,1991,228.36099999999999,NorthAmerica,USA,United States,South Dakota,"Lincoln, Minnehaha",43.5373723677,-96.7409298857
+957,1994,596.89599999999996,NorthAmerica,USA,United States,"Tennessee, Virginia","Carter, Sullivan, Washington, Bristol, Scott, Washington",36.4305658787,-82.3608704885
+958,1995,371.471,NorthAmerica,USA,United States,Tennessee,"Anderson, Knox, Loudon",35.9643884602,-84.0127810431
+959,1997,237.99299999999999,NorthAmerica,USA,United States,"Georgia, Tennessee","Catoosa, Walker, Hamilton",35.0526891702,-85.234880161
+960,1998,119.306,NorthAmerica,USA,United States,Tennessee,Rutherford,35.8505572234,-86.4065742341
+961,1999,856.79100000000005,NorthAmerica,USA,United States,Tennessee,"Davidson, Rutherford, Sumner, Williamson, Wilson",36.1269015691,-86.7051020049
+962,2000,111.20699999999999,NorthAmerica,USA,United States,"Kentucky, Tennessee","Christian, Montgomery",36.5679714854,-87.3409834833
+963,2002,703.02499999999998,NorthAmerica,USA,United States,Tennessee,"Fayette, Shelby",35.1089501254,-89.8912709681
+964,2004,306.80799999999999,NorthAmerica,USA,United States,Texas,"Jefferson, Orange",30.0014584871,-94.0417117938
+965,2007,195.19900000000001,NorthAmerica,USA,United States,Texas,"Chambers, Harris, Liberty",29.7887530392,-94.9624419116
+966,2008,107.447,NorthAmerica,USA,United States,Texas,Smith,32.3230241261,-95.3004408881
+967,2009,126.49299999999999,NorthAmerica,USA,United States,Texas,Brazoria,28.9876914599,-95.3732853499
+968,2010,4593.49,NorthAmerica,USA,United States,Texas,"Brazoria, Fort Bend, Galveston, Harris, Liberty, Montgomery, Waller",29.7876154651,-95.4120662184
+969,2011,166.495,NorthAmerica,USA,United States,Texas,Brazos,30.6260632879,-96.3332162854
+970,2014,4773.68,NorthAmerica,USA,United States,Texas,"Collin, Dallas, Denton, Ellis, Johnson, Kaufman, Rockwall, Tarrant, Wise",32.8496714511,-96.9648567657
+971,2016,213.54,NorthAmerica,USA,United States,Texas,"Falls, Hill, McLennan",31.5415086598,-97.1556583418
+972,2018,125.43600000000001,NorthAmerica,USA,United States,Texas,Denton,33.1876135459,-97.1047897069
+973,2019,116.63800000000001,NorthAmerica,USA,United States,Texas,Bell,31.1011818689,-97.3864814698
+974,2020,227.744,NorthAmerica,MEX,Mexico,"Tamaulipas, Texas","Matamoros, Cameron",25.943820196,-97.4525300819
+975,2021,243.447,NorthAmerica,USA,United States,Texas,Nueces,27.7462285256,-97.4361713003
+976,2022,1005.21,NorthAmerica,USA,United States,Texas,"Hays, Travis, Williamson",30.384288452,-97.7351064433
+977,2023,141.49100000000001,NorthAmerica,USA,United States,Texas,"Bell, Coryell",31.1004934037,-97.7279430398
+978,2025,1314.59,NorthAmerica,USA,United States,Texas,"Bexar, Comal, Guadalupe",29.5085096824,-98.4866688134
+979,2026,600.70600000000002,NorthAmerica,USA,United States,Texas,"Cameron, Hidalgo",26.2237683008,-98.1423012023
+980,2027,101.842,NorthAmerica,USA,United States,Texas,Wichita,33.9017581131,-98.5179037428
+981,2028,124.099,NorthAmerica,MEX,Mexico,"Tamaulipas, Texas","Nuevo Laredo, Webb",27.5439136216,-99.4818599787
+982,2029,102.79,NorthAmerica,USA,United States,Texas,Taylor,32.4393612741,-99.7522421499
+983,2032,164.69399999999999,NorthAmerica,USA,United States,Texas,"Potter, Randall",35.1900809841,-101.859327252
+984,2033,230.13399999999999,NorthAmerica,USA,United States,Texas,Lubbock,33.5560745212,-101.891241892
+985,2034,150.97499999999999,NorthAmerica,USA,United States,Texas,Midland,31.9948303582,-102.099441718
+986,2035,141.77699999999999,NorthAmerica,USA,United States,Texas,"Ector, Midland",31.8761644473,-102.351324965
+987,2036,422.577,NorthAmerica,MEX,Mexico,"Chihuahua, New Mexico, Texas","Juárez, Dona Ana, El Paso",31.7973654886,-106.413576091
+988,2037,1453.98,NorthAmerica,USA,United States,Utah,"Davis, Salt Lake, Utah, Weber",40.7062218236,-111.89071786
+989,2039,846.09699999999998,NorthAmerica,USA,United States,Virginia,"Chesapeake, Norfolk, Portsmouth, Suffolk, Virginia Beach",36.8129478949,-76.2098432199
+990,2040,295.89100000000002,NorthAmerica,USA,United States,Virginia,"Hampton, Newport News, Poquoson, York",37.082038607,-76.4343443857
+991,2042,100.995,NorthAmerica,USA,United States,Virginia,"Chesterfield, Colonial Heights, Dinwiddie, Hopewell, Petersburg, Prince George",37.2497544636,-77.3676251956
+992,2043,495.32900000000001,NorthAmerica,USA,United States,Virginia,"Chesterfield, Goochland, Hanover, Henrico, Richmond",37.5657297892,-77.4797004919
+993,2045,1299.2,NorthAmerica,USA,United States,"District of Columbia, Maryland, Virginia","District of Columbia, Montgomery, Alexandria, Arlington, Fairfax City, Fairfax, Falls Church, Loudoun, Manassas Park, Manassas, Prince William",38.8486627107,-77.3232759634
+994,2048,113.173,NorthAmerica,USA,United States,Virginia,"Danville, Pittsylvania",36.5906332259,-79.3977948511
+995,2049,170.346,NorthAmerica,USA,United States,Virginia,"Botetourt, Roanoke City, Roanoke, Salem",37.2836361725,-79.9821920545
+996,2050,110.10599999999999,NorthAmerica,USA,United States,Virginia,"Bristol, Washington",36.6682369022,-82.0531713501
+997,2052,219.929,NorthAmerica,USA,United States,Washington,Spokane,47.6806316195,-117.333320786
+998,2053,233.71899999999999,NorthAmerica,USA,United States,Washington,"Benton, Franklin",46.2468325306,-119.206943543
+999,2055,156.279,NorthAmerica,USA,United States,Washington,Yakima,46.5956767282,-120.524193572
+1000,2056,142.53200000000001,NorthAmerica,USA,United States,Washington,Snohomish,48.0531456211,-122.133821605
+1001,2057,2241.61,NorthAmerica,USA,United States,Washington,"King, Pierce, Snohomish",47.4605196779,-122.276707947
+1002,2059,281.75299999999999,NorthAmerica,USA,United States,"Oregon, Washington","Multnomah, Clark",45.6572585452,-122.568598393
+1003,2060,176.38,NorthAmerica,USA,United States,Washington,Thurston,47.0286470592,-122.842032959
+1004,2066,612.95399999999995,NorthAmerica,USA,United States,Wisconsin,"Brown, Calumet, Lake Michigan, Oconto, Outagamie, Winnebago",44.3241289249,-88.2753021745
+1005,2067,1349.56,NorthAmerica,USA,United States,Wisconsin,"Kenosha, Lake Michigan, Milwaukee, Ozaukee, Racine, Washington, Waukesha",42.9703811121,-88.0106740357
+1006,2070,331.62299999999999,NorthAmerica,USA,United States,Wisconsin,Dane,43.0865065497,-89.3886292174
+1007,2073,156.57,NorthAmerica,USA,United States,Wisconsin,"Chippewa, Eau Claire",44.8488409061,-91.4597167403
+1008,2078,240.44800000000001,NorthAmerica,MEX,Mexico,Yucatán,"Conkal, Kanasín, Mérida, Tixpéhual, Umán",20.9745215156,-89.629696122
+1009,2081,112.136,NorthAmerica,MEX,Mexico,Veracruz,"Boca del Río, La Antigua, Manlio Fabio Altamirano, Medellín, Veracruz",19.1739067856,-96.1691090584
+1010,2084,140.922,NorthAmerica,MEX,Mexico,"Tamaulipas, Texas","Matamoros, Cameron",25.8457221783,-97.5027574157
+1011,2087,377.72199999999998,NorthAmerica,MEX,Mexico,"Puebla, Tlaxcala","Amozoc, Atlixco, Coronango, Cuautinchán, Cuautlancingo, Juan C. Bonilla, Nealtican, Ocoyucan, Puebla, San Andrés Cholula, San Gregorio Atzompa, San Jerónimo Tecuanipan, San Miguel Xoxtla, San Pedro Cholula, Santa Isabel Cholula, Tianguismanalco, Tlaltenango, Natívitas, Tepetitla de Lardizábal, Zacatelco",19.0564459426,-98.2222996162
+1012,2088,177.34200000000001,NorthAmerica,MEX,Mexico,"Tamaulipas, Texas","Río Bravo, Reynosa, Hidalgo",26.0444110067,-98.3033232706
+1013,2089,113.554,NorthAmerica,MEX,Mexico,Hidalgo,"Pachuca de Soto, San Agustín Tlaxiaca",20.0841613771,-98.7565572386
+1014,2091,1791.37,NorthAmerica,MEX,Mexico,"Distrito Federal, México","Alvaro Obregón, Azcapotzalco, Benito Juárez, Coyoacán, Cuajimalpa de Morelos, Cuauhtémoc, Gustavo A. Madero, Iztacalco, Iztapalapa, Magdalena Contreras, Miguel Hidalgo, Tláhuac, Tlalpan, Venustiano Carranza, Xochimilco, Acolman, Atenco, Atizapán de Zaragoza, Chalco, Chicoloapan, Chimalhuacán, Coacalco de Berriozábal, Coyotepec, Cuautitlán Izcalli, Cuautitlán, Ecatepec de Morelos, Huehuetoca, Huixquilucan, Isidro Fabela, Ixtapaluca, Jaltenco, Jilotzingo, La Paz, Melchor Ocampo, Naucalpan de Juárez, Nextlalpan, Nezahualcóyotl, Nicolás Romero, Tecámac, Teoloyucán, Teotihuacán, Tepotzotlán, Texcoco, Timilpan, Tlalnepantla, Tultepec, Tultitlán, Zumpango",19.4685532994,-99.1060627637
+1015,2092,170.30500000000001,NorthAmerica,MEX,Mexico,Morelos,"Cuernavaca, Huitzilac, Jiutepec, Miacatlán, Temixco, Xochitepec",18.8894112488,-99.2110284911
+1016,2094,221.62100000000001,NorthAmerica,MEX,Mexico,México,"Almoloya de Juárez, Lerma, Otzolotepec, Temoaya, Toluca, Xonacatlán, Zinacatepec",19.2933964879,-99.6075450977
+1017,2097,822.38800000000003,NorthAmerica,MEX,Mexico,Nuevo León,"Apodaca, Carmen, García, General Escobedo, Guadalupe, Juárez, Monterrey, Pesquería, San Nicolás de los Garza, San Pedro Garza García, Santa Catarina, Santiago",25.7237564191,-100.301630226
+1018,2098,223.471,NorthAmerica,MEX,Mexico,Querétaro,"Corregidora, El Marqués, Querétaro",20.6128575,-100.406110434
+1019,2100,175.40600000000001,NorthAmerica,MEX,Mexico,Coahuila,"Arteaga, Ramos Arizpe, Saltillo",25.4509271512,-100.971895525
+1020,2101,212.21600000000001,NorthAmerica,MEX,Mexico,San Luis Potosí,"Mexquitic de Carmona, San Luis Potosí, Soledad de Graciano Sánchez, Villa de Reyes, Zaragoza",22.1359952776,-100.957306462
+1021,2105,175.04300000000001,NorthAmerica,MEX,Mexico,Guanajuato,León,21.1259351576,-101.667280554
+1022,2106,145.035,NorthAmerica,MEX,Mexico,Aguascalientes,"Aguascalientes, Jesús María",21.8921098252,-102.288813005
+1023,2108,567.91499999999996,NorthAmerica,MEX,Mexico,Jalisco,"El Salto, Guadalajara, Ixtlahuacán del Río, Tlajomulco de Zúñiga, Tlaquepaque, Tonalá, Zapopan, Zapotlanejo",20.6408981652,-103.35688462
+1024,2109,266.43,NorthAmerica,MEX,Mexico,"Coahuila, Durango","Matamoros, Torreón, Viesca, Gómez Palacio, Lerdo",25.5413649904,-103.420020012
+1025,2113,165.977,NorthAmerica,MEX,Mexico,Chihuahua,"Aquiles Serdán, Chihuahua",28.661850368,-106.090000761
+1026,2114,275.16000000000003,NorthAmerica,MEX,Mexico,"Chihuahua, Texas","Juárez, El Paso",31.6762649789,-106.428629223
+1027,2117,177.83099999999999,NorthAmerica,MEX,Mexico,Sonora,Hermosillo,29.0895943878,-110.973669427
+1028,2118,165.45,NorthAmerica,MEX,Mexico,"Baja California, California","Mexicali, Imperial",32.6180218464,-115.440891911
+1029,2120,399.45499999999998,NorthAmerica,MEX,Mexico,"Baja California, California","Tijuana, San Diego",32.4701308321,-116.968432059

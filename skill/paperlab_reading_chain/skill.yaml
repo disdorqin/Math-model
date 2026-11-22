@@ -1,0 +1,5 @@
+name: "paperlab_reading_chain"
+title: "PaperLab Reading Chain (Triage to Micro)"
+description: "Read a paper along a fixed chain (triage, macro deltas against prior work, micro equation-by-equation analysis, experiment audit, limits) with a consistency pass that traces every number back to its PDF page."
+category: "Work and knowledge"
+include_in_prompt: false

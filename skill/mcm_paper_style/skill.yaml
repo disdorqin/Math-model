@@ -1,0 +1,5 @@
+name: "mcm_paper_style"
+title: "MCM/ICM Paper Style (O-Award Learned)"
+description: "Write and revise MCM/ICM modeling papers in the style learned from 72 O-Award papers: problem decomposition, model combination, Summary writing, validation, and figure design."
+category: "Work and knowledge"
+include_in_prompt: false

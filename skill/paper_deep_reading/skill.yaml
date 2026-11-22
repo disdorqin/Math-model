@@ -1,0 +1,5 @@
+name: "paper_deep_reading"
+title: "Paper Deep Reading (Toolchain and Note Template)"
+description: "Deep-read a PDF paper with the local hybrid extraction toolchain (pymupdf4llm markdown plus pdftotext layout plus rendered-page checks for formulas) and produce an understanding-level note in the fixed six-part template."
+category: "Work and knowledge"
+include_in_prompt: false

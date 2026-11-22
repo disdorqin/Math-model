@@ -1,0 +1,5 @@
+name: "find_skills"
+title: "Find Skills (Discover and Vet Agent Skills)"
+description: "Discover, vet, and install agent skills from the open skills ecosystem when the user asks how to do X, wants a skill for X, or wants to extend capabilities."
+category: "Work and knowledge"
+include_in_prompt: false
